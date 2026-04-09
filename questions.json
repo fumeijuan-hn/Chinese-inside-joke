@@ -1,0 +1,4902 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-04-09 17:00:14",
+  "total_questions": 345,
+  "topics": [
+    "美食",
+    "网络黑话",
+    "科技网络语",
+    "职场社交黑话",
+    "方言",
+    "日常口语",
+    "影视综艺梗",
+    "谚语成语",
+    "生活常识",
+    "历史文化",
+    "古风诗词常识"
+  ],
+  "topics_summary": {
+    "美食": 14,
+    "网络黑话": 47,
+    "科技网络语": 48,
+    "职场社交黑话": 58,
+    "方言": 30,
+    "日常口语": 60,
+    "影视综艺梗": 20,
+    "谚语成语": 30,
+    "生活常识": 15,
+    "历史文化": 8,
+    "古风诗词常识": 15
+  },
+  "config": {
+    "总题数": "20",
+    "偏好主题保证题数": "6",
+    "单主题最大题数": "5",
+    "随缘出题模式": "完全随机",
+    "近期避让次数": "3"
+  },
+  "score_rules": [
+    {
+      "min": 0,
+      "max": 4,
+      "title": "中国宝宝",
+      "description": "你的中国梗知识还在启蒙阶段，继续加油！"
+    },
+    {
+      "min": 5,
+      "max": 9,
+      "title": "老外实习生",
+      "description": "再多了解就能转正了 ！"
+    },
+    {
+      "min": 10,
+      "max": 14,
+      "title": "老外里的中国通",
+      "description": "你已经能听懂不少弦外之音了！"
+    },
+    {
+      "min": 15,
+      "max": 18,
+      "title": "精神中国人",
+      "description": "你的灵魂已经在中国办了暂住证！"
+    },
+    {
+      "min": 19,
+      "max": 20,
+      "title": "中国梗王",
+      "description": "满分！你可以去考“中国梗十级”证书了！"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "topic": "美食",
+      "level": 1,
+      "text": "What is 油条 usually eaten with?",
+      "options": [
+        "Soy milk | 豆浆",
+        "Milk | 牛奶",
+        "Yogurt | 酸奶",
+        "Tea | 茶"
+      ],
+      "correct": "A",
+      "explanation": "中式经典早餐搭配，油条酥脆，豆浆香浓，甜咸搭配皆可，全国普及。"
+    },
+    {
+      "id": 2,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"破防了\" mean?",
+      "options": [
+        "触动 | Touch",
+        "打击 | Hit",
+        "破防 | Break defense",
+        "感动 | Move"
+      ],
+      "correct": "C",
+      "explanation": "情绪被击溃。"
+    },
+    {
+      "id": 3,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 固件 mean?",
+      "options": [
+        "系统底层丨 Firmware",
+        "固定丨 Fixed",
+        "零件丨 Parts",
+        "硬件丨 Hardware"
+      ],
+      "correct": "A",
+      "explanation": "设备底层控制系统。"
+    },
+    {
+      "id": 4,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does \"潜力股\" mean for a new employee?",
+      "options": [
+        "股（股票）| Stock",
+        "潜力（现在强）| Current strength",
+        "现在一般但未来好（画饼）| Potential talent",
+        "潜力股（关系户）| Relationship hire"
+      ],
+      "correct": "C",
+      "explanation": "领导夸新人但不给资源，如 “你是潜力股，再磨练几年”，表画饼。"
+    },
+    {
+      "id": 5,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 俺也一样 mean in Northern dialects?",
+      "options": [
+        "我也一样 | Me too",
+        "我们也一样 | We too",
+        "俺也喜欢 | I like it too",
+        "俺也想去 | I want to go too"
+      ],
+      "correct": "B",
+      "explanation": "北方话经典台词，源自《三国演义》，现变成表情包，别人说什么，你接 “俺也一样”，主打一个 “附和天花板”。"
+    },
+    {
+      "id": 6,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 扫码 mean?",
+      "options": [
+        "扫二维码丨 Scan QR code",
+        "扫文字丨 Scan text",
+        "扫图片丨 Scan picture",
+        "扫声音丨 Scan sound"
+      ],
+      "correct": "A",
+      "explanation": "支付、加好友常用操作。"
+    },
+    {
+      "id": 7,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 辛苦啦 mean?",
+      "options": [
+        "你很累丨 You are tired",
+        "感谢付出丨 Thanks for your effort",
+        "你很辛苦丨 You work hard",
+        "快休息丨 Rest soon"
+      ],
+      "correct": "B",
+      "explanation": "日常礼貌夸赞，感谢对方帮忙 / 工作。"
+    },
+    {
+      "id": 8,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 埋单啦 mean in Cantonese?",
+      "options": [
+        "买单啦 | Pay the bill",
+        "埋掉账单啦 | Bury the bill",
+        "结账啦 | Settle the account",
+        "付账啦 | Pay for the meal"
+      ],
+      "correct": "B",
+      "explanation": "粤语经典用语，现全国通用，吃完饭喊 “埋单啦”，比 “买单” 更有味道，港式氛围感拉满。"
+    },
+    {
+      "id": 9,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does \"复盘\" mean after a project?",
+      "options": [
+        "总结经验（找问题）| Review and summarize",
+        "复盘（重复）| Repeat",
+        "复盘（玩耍）| Play",
+        "复盘（无关）| Irrelevant"
+      ],
+      "correct": "A",
+      "explanation": "项目结束后总结，如 “今天复盘这个项目，找不足”，表总结问题。"
+    },
+    {
+      "id": 10,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 流量 mean?",
+      "options": [
+        "上网数据丨 Mobile data",
+        "水流丨 Water flow",
+        "数量丨 Quantity",
+        "能量丨 Energy"
+      ],
+      "correct": "A",
+      "explanation": "手机上网消耗的数据。"
+    },
+    {
+      "id": 11,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 没事儿 mean?",
+      "options": [
+        "没有东西 | No thing",
+        "不自由 | Not free",
+        "没时间 | No time",
+        "没关系 / 没事 | It’s okay / No problem"
+      ],
+      "correct": "D",
+      "explanation": "日常礼貌用语，用来回应道歉、感谢，比如 “没事儿，不用谢”“没事儿，别在意”。"
+    },
+    {
+      "id": 12,
+      "topic": "影视综艺梗",
+      "level": 1,
+      "text": "What does \"烂片\" mean?",
+      "options": [
+        "烂片（动画片）| Bad cartoon",
+        "烂的片子（食物）| Rotten film",
+        "烂片（纪录片）| Bad documentary",
+        "不好看的电影（差评）| Bad movie"
+      ],
+      "correct": "D",
+      "explanation": "观众对质量差的电影的评价，如 “这部电影是烂片，别去看”。"
+    },
+    {
+      "id": 13,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 中不中 mean in Henan dialect?",
+      "options": [
+        "行不行 | Okay or not",
+        "好不好 | Good or bad",
+        "对不对 | Right or wrong",
+        "成不成 | Make it or not"
+      ],
+      "correct": "A",
+      "explanation": "河南方言经典问句，对应普通话 “行不行”，日常沟通、商量事常用。"
+    },
+    {
+      "id": 14,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"UFO 你\" mean?",
+      "options": [
+        "外星人 | Alien",
+        "当外人 | Treat as outsider",
+        "带你飞 | Take you fly",
+        "飞碟 | UFO"
+      ],
+      "correct": "B",
+      "explanation": "把你当外人，不跟你一条心。"
+    },
+    {
+      "id": 15,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 无事不登三宝殿 mean?",
+      "options": [
+        "没事情就不去寺庙 | Don't go to the temple without reason",
+        "有事才来找别人 | Only come to someone when you need help",
+        "三宝殿没有事 | There's nothing in the Three Treasures Hall",
+        "喜欢登三宝殿 | Like to climb the Three Treasures Hall"
+      ],
+      "correct": "A",
+      "explanation": "比喻人平时不联系，一联系就是有事相求，比如 “他平时不找我，今天突然打电话，无事不登三宝殿”。"
+    },
+    {
+      "id": 16,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does yyds mean?",
+      "options": [
+        "你你做事 | You you do something",
+        "永远的神 | Forever God / The best",
+        "好好做 | Yes yes do it",
+        "跳舞 | Yeah yeah dance"
+      ],
+      "correct": "B",
+      "explanation": "网络缩写，源自 “永远的神”，用来夸赞人 / 事物极度优秀，是中文互联网最火的缩写之一。"
+    },
+    {
+      "id": 17,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"内卷\" mean?",
+      "options": [
+        "内耗竞争 | Involution",
+        "工作 | Work",
+        "学习 | Study",
+        "竞争 | Competition"
+      ],
+      "correct": "A",
+      "explanation": "无意义竞争导致内耗。"
+    },
+    {
+      "id": 18,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 优化 mean?",
+      "options": [
+        "提升体验丨 Optimize",
+        "优秀丨 Excellent",
+        "变化丨 Change",
+        "提升丨 Improve"
+      ],
+      "correct": "A",
+      "explanation": "让软件 / 系统更好用。"
+    },
+    {
+      "id": 19,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 再说吧 mean?",
+      "options": [
+        "以后再谈丨 Talk later",
+        "现在就说丨 Speak now",
+        "不要说了丨 Stop talking",
+        "再说一遍丨 Say it again"
+      ],
+      "correct": "A",
+      "explanation": "委婉拖延 / 拒绝，不直接否定。"
+    },
+    {
+      "id": 20,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 抓手清晰 mean?",
+      "options": [
+        "方向明确丨 Clear direction",
+        "手清楚丨 Clear hand",
+        "抓住丨 Grab",
+        "工具清楚丨 Clear tool"
+      ],
+      "correct": "A",
+      "explanation": "工作方向、方法明确。"
+    },
+    {
+      "id": 21,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 豁出去 mean in Shaanxi dialect?",
+      "options": [
+        "拼了 | Spare no effort",
+        "出去 | Go out",
+        "豁开 | Break open",
+        "冲出去 | Rush out"
+      ],
+      "correct": "B",
+      "explanation": "陕西方言，表下定决心做某事，不顾后果，如 “为了赢，我豁出去了”。"
+    },
+    {
+      "id": 22,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"嗑 CP\" mean?",
+      "options": [
+        "喜欢一对 CP|Ship a couple",
+        "吃 CP 零食 | Eat CP snacks",
+        "讨论 CP|Discuss CP",
+        "讨厌 CP|Oppose CP"
+      ],
+      "correct": "A",
+      "explanation": "指观众喜欢并追捧剧里 / 综艺里的情侣组合，“嗑到了”= 感到甜。"
+    },
+    {
+      "id": 23,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 备份 mean?",
+      "options": [
+        "数据备份丨 Backup",
+        "准备丨 Prepare",
+        "份丨 Copy",
+        "保存丨 Save"
+      ],
+      "correct": "A",
+      "explanation": "复制数据防止丢失。"
+    },
+    {
+      "id": 24,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 抓手不足 mean?",
+      "options": [
+        "工具不足丨 Lack tool",
+        "手不够丨 Not enough hands",
+        "抓住不足丨 Lack grab",
+        "方法不够丨 Lack method"
+      ],
+      "correct": "D",
+      "explanation": "缺少工作切入点与方法。"
+    },
+    {
+      "id": 25,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 得过且过 mean?",
+      "options": [
+        "凑合过日子 | Get by, muddle through",
+        "赢了通过 | Win and pass",
+        "必须得到 | Have to get",
+        "过得很好 | Live well"
+      ],
+      "correct": "A",
+      "explanation": "指对生活没有追求，敷衍了事，混一天是一天，是贬义词。"
+    },
+    {
+      "id": 26,
+      "topic": "生活常识",
+      "level": 1,
+      "text": "What does 打车 mean?",
+      "options": [
+        "打出租车 | Take a taxi",
+        "打车 | Hail a taxi",
+        "开车 | Drive",
+        "租车 | Rent a car"
+      ],
+      "correct": "A",
+      "explanation": "指乘坐出租车 / 网约车，是中国城市日常出行的常用方式，网约车 APP 普及。"
+    },
+    {
+      "id": 27,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 打通链路 mean?",
+      "options": [
+        "道路丨 Road",
+        "打开丨 Open",
+        "链接丨 Link",
+        "流程顺畅丨 Smooth process"
+      ],
+      "correct": "D",
+      "explanation": "让工作流程顺畅无阻碍。"
+    },
+    {
+      "id": 28,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 直播 mean?",
+      "options": [
+        "实时视频丨 Live stream",
+        "录像丨 Record",
+        "剪辑丨 Edit",
+        "拍照丨 Photo"
+      ],
+      "correct": "A",
+      "explanation": "实时播出视频内容。"
+    },
+    {
+      "id": 29,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does \"赋能\" mean from a leader?",
+      "options": [
+        "给资源（帮你成长）| Empower",
+        "赋能（技术）| Technology empower",
+        "赋能（口头）| Verbal empower",
+        "赋能（无关）| Irrelevant"
+      ],
+      "correct": "A",
+      "explanation": "领导说给你支持，如 “公司会赋能新人，提供培训”，表给资源。"
+    },
+    {
+      "id": 30,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"蚌埠住了\" mean?",
+      "options": [
+        "蚌埠城市 | City of Bengbu",
+        "绷不住了 | Can't hold back",
+        "抱住 | Hug",
+        "睡觉 | Sleep"
+      ],
+      "correct": "B",
+      "explanation": "谐音 “绷不住了”，指情绪到极点，笑 / 哭到控制不住。"
+    },
+    {
+      "id": 31,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does \"大局观\" mean from a leader?",
+      "options": [
+        "牺牲你的利益（顾整体）| Sacrifice your benefit",
+        "看大局（战略）| See the big picture",
+        "大局（公司利益）| Company benefit",
+        "观大局（个人能力）| Personal ability"
+      ],
+      "correct": "A",
+      "explanation": "领导让你妥协，如 “要有大局观，这个项目先让给别人”，表牺牲个人。"
+    },
+    {
+      "id": 32,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does \"协同作战\" mean in a project?",
+      "options": [
+        "协同（技术）| Collaboration",
+        "一起作战（团队）| Team work",
+        "多部门配合（可能甩锅）| Cooperate with departments",
+        "作战（竞争）| Competition"
+      ],
+      "correct": "C",
+      "explanation": "指多个部门一起做项目，但可能互相甩锅，如 “这个项目需要协同作战，各部门配合”。"
+    },
+    {
+      "id": 33,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 埋单 mean in Cantonese?",
+      "options": [
+        "买单 | Pay the bill",
+        "埋掉账单 | Bury the bill",
+        "结账 | Settle the account",
+        "付账 | Pay for the meal"
+      ],
+      "correct": "D",
+      "explanation": "粤语经典用语，现全国通用，指吃完饭支付费用，替代 “买单” 更具特色。"
+    },
+    {
+      "id": 34,
+      "topic": "影视综艺梗",
+      "level": 1,
+      "text": "What does 放水 mean in talent shows?",
+      "options": [
+        "往舞台上放水 | Pour water on the stage",
+        "评委故意降低标准 | Judges lower the standard on purpose",
+        "选手喝水 | Contestants drink water",
+        "舞台有水 | There is water on the stage"
+      ],
+      "correct": "D",
+      "explanation": "选秀综艺常用梗，指评委对喜欢的选手故意放宽要求，“放水”=“开绿灯”。"
+    },
+    {
+      "id": 35,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 取关 mean?",
+      "options": [
+        "取消关注丨 Unfollow",
+        "关注丨 Follow",
+        "拉黑丨 Block",
+        "删除丨 Delete"
+      ],
+      "correct": "A",
+      "explanation": "不再关注账号。"
+    },
+    {
+      "id": 36,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 指纹 mean?",
+      "options": [
+        "指纹解锁丨 Fingerprint",
+        "手指丨 Finger",
+        "纹路丨 Print",
+        "解锁丨 Unlock"
+      ],
+      "correct": "A",
+      "explanation": "指纹识别解锁设备。"
+    },
+    {
+      "id": 37,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does \"弹性工作\" mean in a job offer?",
+      "options": [
+        "弹性（早来早走）| Flexible time",
+        "加班没加班费（自由是幌子）| Flexible but overtime",
+        "弹性（在家办公）| Work from home",
+        "弹性（不打卡）| No clock-in"
+      ],
+      "correct": "B",
+      "explanation": "表面说时间自由，实际要求随叫随到，如 “我们公司弹性工作，需要时要加班”。"
+    },
+    {
+      "id": 38,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 等一下 mean?",
+      "options": [
+        "稍等丨 Wait a moment",
+        "等我丨 Wait for me",
+        "等一下下丨 Wait a bit",
+        "等着丨 Wait"
+      ],
+      "correct": "A",
+      "explanation": "让对方短暂等待。"
+    },
+    {
+      "id": 39,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 颗粒度细化 mean?",
+      "options": [
+        "详细丨 Detailed",
+        "颗粒变小丨 Smaller particle",
+        "细化丨 Refine",
+        "更详细丨 More detailed"
+      ],
+      "correct": "D",
+      "explanation": "把内容做得更细致具体。"
+    },
+    {
+      "id": 40,
+      "topic": "影视综艺梗",
+      "level": 1,
+      "text": "What does 挖野菜 come from?",
+      "options": [
+        "《甄嬛传》|Empresses in the Palace",
+        "《薛平贵与王宝钏》|Xue Pinggui and Wang Baochuan",
+        "《芈月传》|The Legend of Miyue",
+        "《如懿传》|Ruyi's Royal Love in the Palace"
+      ],
+      "correct": "B",
+      "explanation": "王宝钏为等薛平贵，在寒窑挖了 18 年野菜，现用来调侃恋爱脑，“挖野菜”=“恋爱脑实锤”。"
+    },
+    {
+      "id": 41,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does 尊嘟假嘟 mean?",
+      "options": [
+        "真的假的 | Really?",
+        "尊嘟假嘟是拟声词 | Onomatopoeia",
+        "尊重 | Respect",
+        "真假 | True or false"
+      ],
+      "correct": "A",
+      "explanation": "网络萌系谐音，“真的假的” 的可爱说法，用来表达惊讶、质疑，年轻人聊天常用。"
+    },
+    {
+      "id": 42,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 降本增效 mean?",
+      "options": [
+        "节约提效丨 Cost down & efficiency up",
+        "降低丨 Reduce",
+        "成本丨 Cost",
+        "增加丨 Increase"
+      ],
+      "correct": "A",
+      "explanation": "节约成本，提升效率。"
+    },
+    {
+      "id": 43,
+      "topic": "历史文化",
+      "level": 1,
+      "text": "What is 故宫 the former palace of?",
+      "options": [
+        "Ming and Qing dynasties | 明清两代",
+        "Tang and Song dynasties | 唐宋两代",
+        "Qin and Han dynasties | 秦汉两代",
+        "Sui and Tang dynasties | 隋唐两代"
+      ],
+      "correct": "D",
+      "explanation": "故宫又称紫禁城，是明清两代的皇宫，位于北京，是中国现存最完整的古代宫殿建筑群。"
+    },
+    {
+      "id": 44,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 没问题 mean?",
+      "options": [
+        "可以的丨 Okay",
+        "有问题丨 There's a problem",
+        "不知道丨 I don't know",
+        "我不行丨 I can't"
+      ],
+      "correct": "A",
+      "explanation": "表示答应、能做到、放心。"
+    },
+    {
+      "id": 45,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 吃了吗 mean?",
+      "options": [
+        "问候语丨 Greeting",
+        "问吃饭丨 Ask if you ate",
+        "我饿了丨 I'm hungry",
+        "我请客丨 My treat"
+      ],
+      "correct": "A",
+      "explanation": "经典寒暄，不是真问你吃饭没。"
+    },
+    {
+      "id": 46,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 别来无恙 mean?",
+      "options": [
+        "一切都好丨 All is well",
+        "不要来丨 Don't come",
+        "没有病丨 No illness",
+        "别受伤丨 Don't get hurt"
+      ],
+      "correct": "A",
+      "explanation": "久别重逢问候语。"
+    },
+    {
+      "id": 47,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 对齐目标 mean?",
+      "options": [
+        "目标一致丨 Align goals",
+        "排队丨 Line up",
+        "对齐丨 Align",
+        "目标丨 Goal"
+      ],
+      "correct": "A",
+      "explanation": "团队目标保持一致。"
+    },
+    {
+      "id": 48,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"泰裤辣\" mean?",
+      "options": [
+        "太酷啦 | So cool",
+        "泰国辣椒 | Thai chili",
+        "太辣了 | Too spicy",
+        "太酷辣 | Super hot"
+      ],
+      "correct": "B",
+      "explanation": "谐音 “太酷了”，源自网红梗，用来夸赞事物超酷，语气夸张有感染力。"
+    },
+    {
+      "id": 49,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does \"闭环\" mean in a work report?",
+      "options": [
+        "事情有始有终（完成）| Close the loop",
+        "闭环（圆形）| Circle",
+        "闭环（技术术语）| Technical term",
+        "闭环（没完成）| Not finished"
+      ],
+      "correct": "A",
+      "explanation": "职场术语，表任务完成，如 “这个任务要形成闭环，下周给结果”。"
+    },
+    {
+      "id": 50,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 三个臭皮匠顶个诸葛亮 mean?",
+      "options": [
+        "三个皮匠比诸葛亮厉害 | Three cobblers better than Zhuge Liang",
+        "人多智慧多 | Two heads are better than one",
+        "皮匠很聪明 | Cobblers are smart",
+        "诸葛亮很厉害 | Zhuge Liang is smart"
+      ],
+      "correct": "B",
+      "explanation": "诸葛亮是三国顶级智者，比喻集体的智慧超过个人，人多力量大。"
+    },
+    {
+      "id": 51,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 见外了 mean?",
+      "options": [
+        "太客气丨 Too polite",
+        "见外面丨 See outside",
+        "见外人丨 Meet strangers",
+        "见外丨 Formal"
+      ],
+      "correct": "A",
+      "explanation": "让对方不要客气，像家人一样。"
+    },
+    {
+      "id": 52,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 网速 mean?",
+      "options": [
+        "网络速度丨 Network speed",
+        "网络丨 Net",
+        "速度丨 Speed",
+        "快慢丨 Fast/slow"
+      ],
+      "correct": "B",
+      "explanation": "网络传输数据速度。"
+    },
+    {
+      "id": 53,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 一山不容二虎 mean?",
+      "options": [
+        "一座山不能有两只老虎 | A mountain can't hold two tigers",
+        "一个地方不能有两个强者 | A place can't have two strong people",
+        "老虎喜欢独居 | Tigers like to live alone",
+        "山太小容不下老虎 | The mountain is too small for tigers"
+      ],
+      "correct": "B",
+      "explanation": "比喻一个团队或地方，不能有两个实力相当的领导者，否则会起矛盾，主打一个 “一山难容二主”。"
+    },
+    {
+      "id": 54,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 守株待兔 mean?",
+      "options": [
+        "守着树桩等兔子 | Wait for rabbit by the stump",
+        "侥幸心理 | Rely on luck",
+        "等兔子 | Wait for rabbit",
+        "守着 | Wait"
+      ],
+      "correct": "B",
+      "explanation": "源自寓言，比喻抱着侥幸心理，妄想不劳而获，也比喻死守狭隘的经验。"
+    },
+    {
+      "id": 55,
+      "topic": "影视综艺梗",
+      "level": 1,
+      "text": "What does 嗑到了 mean when watching variety shows?",
+      "options": [
+        "吃到东西了 | Eat something",
+        "磕到桌子了 | Knock into the table",
+        "磕到 CP 了 | Ship the couple",
+        "摔倒磕到了 | Fall and knock"
+      ],
+      "correct": "B",
+      "explanation": "观众看综艺的快乐，指看到嘉宾之间的甜蜜互动，忍不住磕他们的 CP，比如 “这对嘉宾互动好甜，我嗑到了”。"
+    },
+    {
+      "id": 56,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 里程碑 mean?",
+      "options": [
+        "石头丨 Stone",
+        "重要节点丨 Milestone",
+        "路程丨 Distance",
+        "标志丨 Sign"
+      ],
+      "correct": "B",
+      "explanation": "项目的重要阶段节点。"
+    },
+    {
+      "id": 57,
+      "topic": "古风诗词常识",
+      "level": 1,
+      "text": "What does \"每逢佳节倍思亲\" mean?",
+      "options": [
+        "倍思亲（不想）| Miss less",
+        "佳节（工作日）| Festival (workday)",
+        "节日更想家（思念）| Miss family more on festivals",
+        "每逢（偶尔）| Occasionally"
+      ],
+      "correct": "C",
+      "explanation": "王维诗句，表节日时对亲人的思念更强烈。"
+    },
+    {
+      "id": 58,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"卷不动了\" mean?",
+      "options": [
+        "不想卷 | Don't want to involute",
+        "累了 | Tired",
+        "卷 | Involution",
+        "躺平 | Lie down"
+      ],
+      "correct": "A",
+      "explanation": "无法继续内卷。"
+    },
+    {
+      "id": 59,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 随便你 mean?",
+      "options": [
+        "你决定丨 Up to you",
+        "随便丨 Casual",
+        "我不管丨 I don't care",
+        "我不听丨 I won't listen"
+      ],
+      "correct": "A",
+      "explanation": "表示不干涉，由对方决定。"
+    },
+    {
+      "id": 60,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does 躺平 mean?",
+      "options": [
+        "躺在地上 | Lie on the floor",
+        "不内卷，低欲望生活 | Avoid competition, low-desire life",
+        "睡觉 | Sleep",
+        "做运动 | Do exercise"
+      ],
+      "correct": "B",
+      "explanation": "指年轻人放弃过度竞争，选择低欲望、佛系的生活方式，是中国年轻人的流行生活态度。"
+    },
+    {
+      "id": 61,
+      "topic": "古风诗词常识",
+      "level": 1,
+      "text": "What does \"疑是银河落九天\" mean?",
+      "options": [
+        "银河（小河）| Milky Way (small river)",
+        "疑是（确定）| Confirm",
+        "瀑布像银河（夸张）| Waterfall like Milky Way",
+        "落九天（低）| Fall nine days (low)"
+      ],
+      "correct": "C",
+      "explanation": "李白诗句，用夸张手法写瀑布像银河从天上落下。"
+    },
+    {
+      "id": 62,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 投屏 mean?",
+      "options": [
+        "投屏幕丨 Screen cast",
+        "截图丨 Screenshot",
+        "录屏丨 Record",
+        "关机丨 Shut down"
+      ],
+      "correct": "A",
+      "explanation": "把画面投到电视 / 显示器。"
+    },
+    {
+      "id": 63,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 解锁 mean?",
+      "options": [
+        "解开屏幕丨 Unlock",
+        "锁定丨 Lock",
+        "打开丨 Open",
+        "密码丨 Password"
+      ],
+      "correct": "A",
+      "explanation": "解开手机 / 设备锁。"
+    },
+    {
+      "id": 64,
+      "topic": "生活常识",
+      "level": 1,
+      "text": "What is 扫码支付？",
+      "options": [
+        "扫码付款 | Scan code to pay",
+        "扫地 | Sweep floor",
+        "签密码 | Sign code",
+        "代码付款 | Code payment"
+      ],
+      "correct": "A",
+      "explanation": "中国移动支付核心方式，用手机扫二维码付款，是中国人日常最常用的支付方式。"
+    },
+    {
+      "id": 65,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does \"走个流程\" mean in a company?",
+      "options": [
+        "按规定办（可能拖延）| Go through procedures",
+        "走流程（快速通过）| Quick process",
+        "流程（简单步骤）| Simple process",
+        "走流程（必须做）| Must do process"
+      ],
+      "correct": "A",
+      "explanation": "指按公司规定办理，可能需要等很久，如 “报销要走个流程，下周下来”。"
+    },
+    {
+      "id": 66,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 我尽力 mean?",
+      "options": [
+        "我努力丨 I'll try my best",
+        "我可以丨 I can",
+        "我不行丨 I can't",
+        "我会做丨 I'll do it"
+      ],
+      "correct": "A",
+      "explanation": "表示会努力，但不保证结果。"
+    },
+    {
+      "id": 67,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 横向协同 mean?",
+      "options": [
+        "协同丨 Collaborate",
+        "横向丨 Horizontal",
+        "跨部门配合丨 Cross-department collaboration",
+        "部门丨 Department"
+      ],
+      "correct": "C",
+      "explanation": "与平级部门配合工作。"
+    },
+    {
+      "id": 68,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 快到了 mean?",
+      "options": [
+        "即将到达丨 Almost there",
+        "很快丨 Very fast",
+        "快一点丨 Faster",
+        "到了丨 Arrived"
+      ],
+      "correct": "A",
+      "explanation": "告诉对方距离目的地很近。"
+    },
+    {
+      "id": 69,
+      "topic": "历史文化",
+      "level": 1,
+      "text": "What is 长城 built for?",
+      "options": [
+        "Tourism | 旅游",
+        "Defense | 防御",
+        "Transportation | 交通",
+        "Trade | 贸易"
+      ],
+      "correct": "B",
+      "explanation": "长城是中国古代军事防御工程，始建于春秋战国，秦代统一修缮，抵御北方游牧民族。"
+    },
+    {
+      "id": 70,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 打扰了 mean?",
+      "options": [
+        "抱歉打扰丨 Sorry to disturb",
+        "我很忙丨 I'm busy",
+        "你很烦丨 You're annoying",
+        "我走了丨 I'm leaving"
+      ],
+      "correct": "A",
+      "explanation": "拜访、请教、打断别人时的礼貌用语。"
+    },
+    {
+      "id": 71,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"没事哒没事哒\" mean?",
+      "options": [
+        "安慰自己 | Self-comfort",
+        "没事 | It's okay",
+        "安慰别人 | Comfort",
+        "别担心 | Don't worry"
+      ],
+      "correct": "A",
+      "explanation": "源自短视频，年轻人自我安慰口头禅。"
+    },
+    {
+      "id": 72,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 保重 mean?",
+      "options": [
+        "照顾好自己丨 Take care",
+        "减肥丨 Lose weight",
+        "保持重量丨 Keep weight",
+        "保证重量丨 Guarantee weight"
+      ],
+      "correct": "A",
+      "explanation": "告别时祝福对方健康平安。"
+    },
+    {
+      "id": 73,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 清爽 mean in Wu dialect?",
+      "options": [
+        "干净 | Clean",
+        "舒服 | Comfortable",
+        "清爽 | Refreshing",
+        "整洁 | Tidy"
+      ],
+      "correct": "C",
+      "explanation": "吴语（上海、苏州等），既指环境干净，也可形容人心情舒畅、做事利落。"
+    },
+    {
+      "id": 74,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 交付物 mean?",
+      "options": [
+        "交给丨 Hand over",
+        "工作成果丨 Deliverable",
+        "物品丨 Item",
+        "产物丨 Product"
+      ],
+      "correct": "B",
+      "explanation": "需要提交的工作产出物。"
+    },
+    {
+      "id": 75,
+      "topic": "生活常识",
+      "level": 1,
+      "text": "What does 敬酒 mean?",
+      "options": [
+        "敬酒，举杯祝福 | Toast with wine",
+        "敬茶 | Toast with tea",
+        "喝酒 | Drink wine",
+        "举杯 | Raise glass"
+      ],
+      "correct": "A",
+      "explanation": "中国餐桌礼仪，宴席上向长辈 / 客人举杯敬酒，表达尊敬和祝福，是重要社交礼仪。"
+    },
+    {
+      "id": 76,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"真香\" mean?",
+      "options": [
+        "真香（真香定律）|True fragrance",
+        "真的香 | Really fragrant",
+        "真的好 | Really good",
+        "真的热 | Really hot"
+      ],
+      "correct": "A",
+      "explanation": "指之前拒绝，后来真香，现用来表示打脸或真香定律。"
+    },
+    {
+      "id": 77,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 随便 mean when choosing food?",
+      "options": [
+        "都可以丨 Anything is okay",
+        "我不吃丨 I don't eat",
+        "我生气丨 I'm angry",
+        "我挑食丨 I'm picky"
+      ],
+      "correct": "A",
+      "explanation": "日常常用，表不挑剔、听对方安排。"
+    },
+    {
+      "id": 78,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 缓存 mean?",
+      "options": [
+        "临时数据丨 Cache",
+        "幻想丨 Fantasy",
+        "保存丨 Save",
+        "存储丨 Store"
+      ],
+      "correct": "A",
+      "explanation": "APP 临时存储的数据。"
+    },
+    {
+      "id": 79,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 加载 mean?",
+      "options": [
+        "数据读取丨 Loading",
+        "加上丨 Add",
+        "载入丨 Load",
+        "读取丨 Read"
+      ],
+      "correct": "B",
+      "explanation": "APP 读取显示数据。"
+    },
+    {
+      "id": 80,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 原画 mean?",
+      "options": [
+        "高清画质丨 Original quality",
+        "原来丨 Original",
+        "画画丨 Draw",
+        "画质丨 Quality"
+      ],
+      "correct": "A",
+      "explanation": "视频最高清晰度。"
+    },
+    {
+      "id": 81,
+      "topic": "美食",
+      "level": 1,
+      "text": "What is 月饼 a symbol of?",
+      "options": [
+        "Wealth | 财富",
+        "Health | 健康",
+        "Reunion | 团圆",
+        "Happiness | 幸福"
+      ],
+      "correct": "A",
+      "explanation": "中秋必吃美食，圆形象征团圆，分五仁、莲蓉、蛋黄等多种口味，家人共食。"
+    },
+    {
+      "id": 82,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 断网 mean?",
+      "options": [
+        "网络断开丨 Disconnect",
+        "断开丨 Break",
+        "网络丨 Net",
+        "停止丨 Stop"
+      ],
+      "correct": "A",
+      "explanation": "设备失去网络连接。"
+    },
+    {
+      "id": 83,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"配享太庙\" mean?",
+      "options": [
+        "夸观点 | Praise",
+        "很对 | Very right",
+        "超赞 | Amazing",
+        "全对 | All right"
+      ],
+      "correct": "A",
+      "explanation": "形容观点完全正确，封神级别。"
+    },
+    {
+      "id": 84,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 蓝牙 mean?",
+      "options": [
+        "短距连接丨 Bluetooth",
+        "牙齿丨 Tooth",
+        "兰花丨 Orchid",
+        "无线丨 Wireless"
+      ],
+      "correct": "A",
+      "explanation": "近距离设备无线连接。"
+    },
+    {
+      "id": 85,
+      "topic": "美食",
+      "level": 1,
+      "text": "What is 麻辣烫's origin?",
+      "options": [
+        "Sichuan | 四川",
+        "Chongqing | 重庆",
+        "Shaanxi | 陕西",
+        "Gansu | 甘肃"
+      ],
+      "correct": "C",
+      "explanation": "川味经典小吃，起源于四川，汤底麻辣鲜香，可自选食材煮制，性价比高。"
+    },
+    {
+      "id": 86,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 好久不见 mean?",
+      "options": [
+        "很久没见丨 Long time no see",
+        "昨天见过丨 Saw you yesterday",
+        "每天见丨 See you every day",
+        "第一次见丨 First time meeting"
+      ],
+      "correct": "A",
+      "explanation": "熟人见面最常用问候语。"
+    },
+    {
+      "id": 87,
+      "topic": "古风诗词常识",
+      "level": 1,
+      "text": "What does \"润物细无声\" describe?",
+      "options": [
+        "润物（大风）| Moisturize (strong wind)",
+        "润物（冬天）| Moisturize (winter)",
+        "细无声（大声）| Silent (loud)",
+        "春雨（温柔）| Spring rain (gentle)"
+      ],
+      "correct": "D",
+      "explanation": "杜甫《春夜喜雨》诗句，写春雨悄悄滋润万物，温柔无声。"
+    },
+    {
+      "id": 88,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 慢走 mean when seeing someone off?",
+      "options": [
+        "慢慢走路丨 Walk slowly",
+        "路上小心丨 Take care",
+        "走慢点丨 Walk slower",
+        "别跑丨 Don't run"
+      ],
+      "correct": "B",
+      "explanation": "中国式送别礼貌语，不是真让对方慢走，表关心。"
+    },
+    {
+      "id": 89,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 复盘总结 mean?",
+      "options": [
+        "复盘丨 Review",
+        "总结经验丨 Review summary",
+        "总结丨 Summary",
+        "经验丨 Experience"
+      ],
+      "correct": "B",
+      "explanation": "项目结束后总结经验教训。"
+    },
+    {
+      "id": 90,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 捡了芝麻丢了西瓜 mean?",
+      "options": [
+        "捡芝麻扔西瓜 | Pick up sesame and throw away watermelon",
+        "抓小放大 | Penny wise and pound foolish",
+        "喜欢芝麻不喜欢西瓜 | Like sesame not watermelon",
+        "芝麻比西瓜小 | Sesame is smaller than watermelon"
+      ],
+      "correct": "D",
+      "explanation": "比喻贪小便宜吃大亏，只关注小事，忽略了大事，比如 “为了省几块钱绕远路，捡了芝麻丢了西瓜”。"
+    },
+    {
+      "id": 91,
+      "topic": "影视综艺梗",
+      "level": 1,
+      "text": "What does 演技炸裂 mean in a movie?",
+      "options": [
+        "演员演技超烂 | Actor's acting is terrible",
+        "演员演技超棒 | Actor's acting is amazing",
+        "演员演技一般 | Actor's acting is average",
+        "演员摔炸了 | Actor fell and exploded"
+      ],
+      "correct": "D",
+      "explanation": "夸演员演技的最高评价，指演员的表演真实、有感染力，比如 “他这段哭戏演技炸裂，看哭我了”。"
+    },
+    {
+      "id": 92,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 冇得事 mean in Hunan dialect?",
+      "options": [
+        "没关系 | It's okay",
+        "没有事 | No thing",
+        "不用谢 | You're welcome",
+        "别客气 | Don't mention it"
+      ],
+      "correct": "B",
+      "explanation": "湘语（湖南话）常用语，回应道歉或关心，和普通话 “没事儿” 同义。"
+    },
+    {
+      "id": 93,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 睁一只眼闭一只眼 mean?",
+      "options": [
+        "眼睛一只睁一只闭 | One eye open, one eye closed",
+        "假装没看见 | Turn a blind eye to something",
+        "眼睛不舒服 | Eye discomfort",
+        "看东西模糊 | Blurred vision"
+      ],
+      "correct": "B",
+      "explanation": "比喻对别人的小错误不计较，假装没看见，比如 “他偶尔迟到一次，我就睁一只眼闭一只眼吧”。"
+    },
+    {
+      "id": 94,
+      "topic": "影视综艺梗",
+      "level": 1,
+      "text": "What does 剧本痕迹太重 mean?",
+      "options": [
+        "综艺的剧本写得太好 | The variety show's script is well written",
+        "综艺情节是提前设计的 | Variety show plot is pre-designed",
+        "嘉宾的剧本太多 | Guests have too many scripts",
+        "剧本上有痕迹 | There are traces on the script"
+      ],
+      "correct": "A",
+      "explanation": "观众对综艺的吐槽，指综艺的情节太假、太刻意，一看就是提前安排好的，没有真实感。"
+    },
+    {
+      "id": 95,
+      "topic": "影视综艺梗",
+      "level": 1,
+      "text": "What does 下饭综艺 mean?",
+      "options": [
+        "看了能下饭的综艺 | Variety show that makes you eat more",
+        "综艺里有美食 | There is food in the variety show",
+        "边做饭边看的综艺 | Variety show to watch while cooking",
+        "边吃饭边看的综艺 | Variety show to watch while eating"
+      ],
+      "correct": "C",
+      "explanation": "形容综艺轻松搞笑、不费脑，适合吃饭时看，比如 “这个综艺太下饭了，我能多吃一碗饭”。"
+    },
+    {
+      "id": 96,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 吃一堑长一智 mean?",
+      "options": [
+        "吃一次亏，长一次见识 | Learn a lesson from a mistake",
+        "吃堑能变聪明 | Eating cut can make you smart",
+        "堑很好吃 | Cut is delicious",
+        "聪明的人不吃堑 | Smart people don't eat cut"
+      ],
+      "correct": "D",
+      "explanation": "比喻经历一次挫折，就会吸取一次教训，变得更聪明，比如 “这次被骗了，吃一堑长一智，下次再也不上当了”。"
+    },
+    {
+      "id": 97,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"显眼包女友\" mean?",
+      "options": [
+        "漂亮女友 | Beautiful girlfriend",
+        "爱出风头的女友 | Show-off girlfriend",
+        "可爱女友 | Cute girlfriend",
+        "搞笑女友 | Funny girlfriend"
+      ],
+      "correct": "B",
+      "explanation": "形容女友非常显眼、活泼搞笑，是女生的搞笑自嘲词。"
+    },
+    {
+      "id": 98,
+      "topic": "影视综艺梗",
+      "level": 1,
+      "text": "What does 沉浸式体验 mean in variety shows?",
+      "options": [
+        "沉入水里体验 | Experience sinking in water",
+        "全身心投入的体验 | Wholeheartedly engaged experience",
+        "戴着耳机体验 | Experience with headphones",
+        "在密室体验 | Experience in a secret room"
+      ],
+      "correct": "D",
+      "explanation": "综艺爆款玩法，比如沉浸式露营、沉浸式演戏，让嘉宾和观众全身心投入，氛围感拉满。"
+    },
+    {
+      "id": 99,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 重启 mean?",
+      "options": [
+        "重新开机丨 Restart",
+        "打开丨 Open",
+        "关闭丨 Close",
+        "启动丨 Start"
+      ],
+      "correct": "A",
+      "explanation": "关机再开机解决故障。"
+    },
+    {
+      "id": 100,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 晓得不 mean in Southwest Mandarin?",
+      "options": [
+        "知道吗 | Do you know",
+        "明白吗 | Do you understand",
+        "清楚吗 | Are you clear",
+        "懂吗 | Do you get it"
+      ],
+      "correct": "C",
+      "explanation": "西南官话（四川、重庆等）常用问句，对应普通话 “知道吗”，语气随意。"
+    },
+    {
+      "id": 101,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 画蛇添足 mean?",
+      "options": [
+        "画蛇加脚 | Draw feet on a snake",
+        "多此一举 | Unnecessary addition",
+        "画蛇 | Draw a snake",
+        "多余 | Extra"
+      ],
+      "correct": "B",
+      "explanation": "源自寓言，比喻做了多余的事，反而把事情弄糟，得不偿失。"
+    },
+    {
+      "id": 102,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 更新 mean?",
+      "options": [
+        "升级版本丨 Update",
+        "更加丨 More",
+        "新的丨 New",
+        "替换丨 Replace"
+      ],
+      "correct": "A",
+      "explanation": "软件 / 系统升级到新版。"
+    },
+    {
+      "id": 103,
+      "topic": "美食",
+      "level": 1,
+      "text": "What is 过桥米线 a specialty of?",
+      "options": [
+        "Yunnan | 云南",
+        "Guizhou | 贵州",
+        "Sichuan | 四川",
+        "Yunnan | 云南"
+      ],
+      "correct": "B",
+      "explanation": "云南蒙自特色美食，由汤底、米线、配菜组成，配菜烫熟后食用，汤鲜味美。"
+    },
+    {
+      "id": 104,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 搞莫子 mean in Hunan dialect?",
+      "options": [
+        "搞什么 | What are you doing?",
+        "搞事情 | Start something?",
+        "搞什么东西 | What are you doing?",
+        "搞啥子 | What?"
+      ],
+      "correct": "A",
+      "explanation": "湖南话经典问句，“搞莫子”=“搞什么”，语气直接，比如 “你在搞莫子，怎么这么慢？”。"
+    },
+    {
+      "id": 105,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does 大数据杀熟 mean?",
+      "options": [
+        "大数据把熟人杀了 | Big data kills acquaintances",
+        "平台对老用户定高价 | Platform charges old users more",
+        "大数据泄露隐私 | Big data leaks privacy",
+        "熟人生成大数据 | Acquaintances generate big data"
+      ],
+      "correct": "B",
+      "explanation": "网购 / 打车坑人梗，指平台利用大数据，对老用户比新用户定价更高，主打一个区别对待。"
+    },
+    {
+      "id": 106,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does 退退退 mean?",
+      "options": [
+        "退款 | Refund",
+        "后退三步 | Step back three times",
+        "退退退，拒绝 | Back off, refuse",
+        "退出 | Exit"
+      ],
+      "correct": "C",
+      "explanation": "源自网络名场面，用来表达拒绝、驱赶，比如 “退退退，别来沾边”，是搞笑梗。"
+    },
+    {
+      "id": 107,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 巴适得板 mean in Sichuan dialect?",
+      "options": [
+        "很舒服 | Very comfortable",
+        "超级爽 | Extremely great",
+        "太合适 | Too suitable",
+        "超开心 | Super happy"
+      ],
+      "correct": "C",
+      "explanation": "四川方言顶级夸赞，“巴适” 是舒服，“得板” 表程度，形容事物好到极致。"
+    },
+    {
+      "id": 108,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 唠嗑不 mean in Northeast dialect?",
+      "options": [
+        "聊天不 | Chat?",
+        "说话不 | Speak?",
+        "闲谈不 | Casual talk?",
+        "唠嗑不 | Chat?"
+      ],
+      "correct": "C",
+      "explanation": "东北话日常邀约，“唠嗑” 是聊天，比如 “晚上来我家唠嗑不，整点小酒”，主打一个东北人的热情。"
+    },
+    {
+      "id": 109,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 抓手 mean?",
+      "options": [
+        "切入点丨 Starting point",
+        "手丨 Hand",
+        "抓住丨 Grab",
+        "工具丨 Tool"
+      ],
+      "correct": "C",
+      "explanation": "工作的突破口、核心方法。"
+    },
+    {
+      "id": 110,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 甭提 mean?",
+      "options": [
+        "提 | Mention",
+        "不用提 | No need to mention",
+        "别提了，不用说了 | Don't mention it",
+        "别说 | Don't say"
+      ],
+      "correct": "C",
+      "explanation": "口语中表别提了（多为负面），比如 “甭提了，今天太倒霉了”。"
+    },
+    {
+      "id": 111,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 清爽伐 mean in Wu dialect?",
+      "options": [
+        "干净吗 | Clean?",
+        "舒服吗 | Comfortable?",
+        "清爽吗 | Refreshing?",
+        "整洁吗 | Tidy?"
+      ],
+      "correct": "D",
+      "explanation": "上海 / 苏州话常用问句，既可以问环境 “这房间清爽伐？”，也可以问心情 “今天心情清爽伐？”。"
+    },
+    {
+      "id": 112,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 咋 mean?",
+      "options": [
+        "怎么 / 为什么 | How / Why",
+        "电击 | Zap",
+        "坐 | Sit",
+        "锯 | Saw"
+      ],
+      "correct": "A",
+      "explanation": "北方方言，“怎么” 的意思，比如 “咋了”“咋办”，日常口语高频词。"
+    },
+    {
+      "id": 113,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"遥遥领先\" mean?",
+      "options": [
+        "领先 | Lead",
+        "优势 | Advantage",
+        "遥遥领先 | Far ahead",
+        "遥遥无期 | Far away"
+      ],
+      "correct": "C",
+      "explanation": "形容优势巨大、碾压级。"
+    },
+    {
+      "id": 114,
+      "topic": "古风诗词常识",
+      "level": 1,
+      "text": "What does \"举头望明月\" mean?",
+      "options": [
+        "抬头看月亮（思念）| Look up at the moon (miss)",
+        "举头（低头）| Bow head",
+        "望明月（看太阳）| Look at the sun",
+        "举头望（不看）| Don’t look"
+      ],
+      "correct": "A",
+      "explanation": "李白《静夜思》下句，“举头望明月，低头思故乡”，表思乡。"
+    },
+    {
+      "id": 115,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 侬晓得伐 mean in Shanghainese?",
+      "options": [
+        "你知道吗 | Do you know?",
+        "你看见吗 | Do you see?",
+        "你听见吗 | Do you hear?",
+        "你明白吗 | Do you understand?"
+      ],
+      "correct": "A",
+      "explanation": "上海话经典问句，“侬” 是你，“晓得伐” 是知道吗，语气亲切，日常聊天常用。"
+    },
+    {
+      "id": 116,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 抓手落地 mean?",
+      "options": [
+        "工具落地丨 Tool land",
+        "抓住落地丨 Grab and land",
+        "手落地丨 Hand land",
+        "找到方法执行丨 Implement with method"
+      ],
+      "correct": "D",
+      "explanation": "找到切入点并执行。"
+    },
+    {
+      "id": 117,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 回头聊 mean?",
+      "options": [
+        "以后再聊丨 Chat later",
+        "回头说话丨 Turn around and talk",
+        "现在聊天丨 Chat now",
+        "不要聊天丨 Don't chat"
+      ],
+      "correct": "A",
+      "explanation": "临时结束聊天的客套话。"
+    },
+    {
+      "id": 118,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 闪退修复 mean?",
+      "options": [
+        "修复崩溃丨 Fix crash",
+        "闪丨 Flash",
+        "退出丨 Exit",
+        "修复丨 Repair"
+      ],
+      "correct": "A",
+      "explanation": "修复 APP 突然退出问题。"
+    },
+    {
+      "id": 119,
+      "topic": "影视综艺梗",
+      "level": 1,
+      "text": "What does 上头 mean when watching a drama?",
+      "options": [
+        "头上不舒服 | Uncomfortable on the head",
+        "沉迷剧情无法自拔 | Addicted to the plot",
+        "剧情到头上 | Plot comes to the head",
+        "上头等剧情 | Wait for the plot anxiously"
+      ],
+      "correct": "A",
+      "explanation": "追剧人的真实状态，指被剧情吸引，熬夜追剧、满脑子都是剧情，主打一个 “停不下来”。"
+    },
+    {
+      "id": 120,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 咋整啊 mean in Northeast dialect?",
+      "options": [
+        "怎么整理 | How to organize?",
+        "怎么办啊 | What to do?",
+        "怎么收拾 | How to clean up?",
+        "怎么弄啊 | How to do it?"
+      ],
+      "correct": "C",
+      "explanation": "东北话万能问句，遇到困难就说 “咋整啊”，语气着急又亲切，主打一个 “求助天花板”。"
+    },
+    {
+      "id": 121,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 晓得喽 mean in Southwest Mandarin?",
+      "options": [
+        "知道了 | Got it",
+        "明白了 | Understood",
+        "清楚了 | Clear",
+        "懂了 | Got it"
+      ],
+      "correct": "A",
+      "explanation": "四川 / 重庆 / 贵州通用方言，“晓得” 是知道，“喽” 是语气词，答应别人时说 “晓得喽”，亲切又可爱。"
+    },
+    {
+      "id": 122,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 我没事 mean?",
+      "options": [
+        "我很好丨 I'm fine",
+        "我有事丨 I have things",
+        "我很忙丨 I'm busy",
+        "我不累丨 I'm not tired"
+      ],
+      "correct": "A",
+      "explanation": "表示自己状态正常，无需担心。"
+    },
+    {
+      "id": 123,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 拿捏 mean?",
+      "options": [
+        "拿捏 | Nail it",
+        "拿住 | Hold",
+        "拿捏，掌控 | Master / Control",
+        "掌控 | Control"
+      ],
+      "correct": "C",
+      "explanation": "网络 / 口语流行词，表精准掌控、拿捏住了，比如 “拿捏了”“被你拿捏了”。"
+    },
+    {
+      "id": 124,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 冇嘢 mean in Cantonese?",
+      "options": [
+        "有事情 | Have something to do",
+        "没事情 | Nothing to do",
+        "有东西 | Have something",
+        "没东西 | Nothing"
+      ],
+      "correct": "B",
+      "explanation": "粤语常用语，“冇” 是没有，“嘢” 是事情 / 东西，这里指没事情，回应关心时说 “冇嘢，多谢”。"
+    },
+    {
+      "id": 125,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 睇下先 mean in Cantonese?",
+      "options": [
+        "先看一下 | Have a look first",
+        "先听一下 | Have a listen first",
+        "先尝一下 | Have a taste first",
+        "先摸一下 | Have a touch first"
+      ],
+      "correct": "C",
+      "explanation": "粤语常用语，“睇” 是看，“下先” 是先一下，比如 “等我睇下先，再决定买不买”。"
+    },
+    {
+      "id": 126,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 落地 mean?",
+      "options": [
+        "执行落实丨 Implement",
+        "掉落丨 Fall",
+        "地面丨 Ground",
+        "实现丨 Realize"
+      ],
+      "correct": "A",
+      "explanation": "方案真正执行、产生结果。"
+    },
+    {
+      "id": 127,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does CPU 别人 mean?",
+      "options": [
+        "给电脑装 CPU|Install CPU for computer",
+        "用 CPU 砸人 | Hit someone with CPU",
+        "精神 PUA 别人 | Mentally PUA others",
+        "教别人用 CPU|Teach others to use CPU"
+      ],
+      "correct": "A",
+      "explanation": "网络玩梗，把 PUA 说成 CPU，指通过精神控制打压、忽悠别人，比如 “别被他 CPU 了，他在骗你”。"
+    },
+    {
+      "id": 128,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 走着瞧 mean?",
+      "options": [
+        "等着看丨 Wait and see",
+        "走路看丨 Walk and see",
+        "马上看丨 See now",
+        "看着走丨 Watch walking"
+      ],
+      "correct": "A",
+      "explanation": "表示不服气，以后看结果。"
+    },
+    {
+      "id": 129,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 背书 mean?",
+      "options": [
+        "支持担保丨 Endorsement",
+        "背诵丨 Recite",
+        "书本丨 Book",
+        "支持丨 Support"
+      ],
+      "correct": "A",
+      "explanation": "权威 / 品牌为其做担保。"
+    },
+    {
+      "id": 130,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 萝卜青菜各有所爱 mean?",
+      "options": [
+        "萝卜和青菜都好吃 | Radish and green vegetables are delicious",
+        "每个人的喜好不同 | Everyone has different tastes",
+        "喜欢萝卜不喜欢青菜 | Like radish not green vegetables",
+        "青菜比萝卜有营养 | Green vegetables are more nutritious than radish"
+      ],
+      "correct": "C",
+      "explanation": "比喻每个人的审美和喜好不一样，不用强求别人和自己一样，比如 “他喜欢甜的，你喜欢咸的，萝卜青菜各有所爱”。"
+    },
+    {
+      "id": 131,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 跑通流程 mean?",
+      "options": [
+        "通过丨 Pass",
+        "跑步丨 Run",
+        "流程可行丨 Process works",
+        "流程丨 Process"
+      ],
+      "correct": "C",
+      "explanation": "验证流程可正常运转。"
+    },
+    {
+      "id": 132,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 分辨率 mean?",
+      "options": [
+        "清晰度丨 Resolution",
+        "分辨丨 Distinguish",
+        "率丨 Rate",
+        "清晰丨 Clear"
+      ],
+      "correct": "A",
+      "explanation": "屏幕 / 图片清晰度指标。"
+    },
+    {
+      "id": 133,
+      "topic": "古风诗词常识",
+      "level": 1,
+      "text": "What does \"飞流直下三千尺\" describe?",
+      "options": [
+        "瀑布（壮观）| Waterfall (magnificent)",
+        "流水（小河）| Stream (small river)",
+        "飞流（下雨）| Flying water (rain)",
+        "三千尺（短）| Three thousand feet (short)"
+      ],
+      "correct": "A",
+      "explanation": "李白《望庐山瀑布》诗句，写瀑布从高处落下的壮观景象。"
+    },
+    {
+      "id": 134,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 慢慢来 mean?",
+      "options": [
+        "不急丨 Take your time",
+        "慢慢走丨 Walk slowly",
+        "慢慢吃丨 Eat slowly",
+        "慢慢做丨 Do slowly"
+      ],
+      "correct": "A",
+      "explanation": "安慰对方不用急，从容做事。"
+    },
+    {
+      "id": 135,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 侬好 mean in Shanghainese?",
+      "options": [
+        "你好 | Hello",
+        "您好 | How are you",
+        "大家好 | Hello everyone",
+        "你们好 | Hello you all"
+      ],
+      "correct": "B",
+      "explanation": "吴语（上海话）核心问候语，对应普通话 “你好”，是日常见面基础用语。"
+    },
+    {
+      "id": 136,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"哈哈哈～被自己穷笑啦\" mean?",
+      "options": [
+        "委婉说自己穷 | Euphemistically say I'm poor",
+        "笑自己穷 | Laugh at my poverty",
+        "穷到笑了 | Poor to laugh",
+        "自己很穷 | I'm very poor"
+      ],
+      "correct": "A",
+      "explanation": "年轻人自嘲梗，用搞笑的方式说自己没钱，主打一个乐观摆烂。"
+    },
+    {
+      "id": 137,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does 破防 mean?",
+      "options": [
+        "破坏防御 | Break defense",
+        "情绪被触动 | Get emotionally hit",
+        "WiFi 坏了 | Broken WiFi",
+        "开门 | Open door"
+      ],
+      "correct": "B",
+      "explanation": "原指游戏中防御被打破，现指心理防线被击溃，因某事感到难过、愤怒或破防。"
+    },
+    {
+      "id": 138,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 忒好了 mean in Northern dialects?",
+      "options": [
+        "太好了 | Too good",
+        "很好 | Very good",
+        "超级好 | Super good",
+        "特别好 | Especially good"
+      ],
+      "correct": "B",
+      "explanation": "北方话（山东 / 北京）常用夸赞，“忒” 是太、非常，比如 “这饭做得忒好了，太香了”。"
+    },
+    {
+      "id": 139,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 离线 mean?",
+      "options": [
+        "无网状态丨 Offline",
+        "离开丨 Leave",
+        "线上丨 Online",
+        "下线丨 Offline"
+      ],
+      "correct": "A",
+      "explanation": "不连接网络使用。"
+    },
+    {
+      "id": 140,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"栓 Q\" mean?",
+      "options": [
+        "谢谢 | Thank you",
+        "谢谢（搞笑发音）|Sarcastic thanks",
+        "谢谢啦 | Thanks a lot",
+        "谢谢你 | Thank you"
+      ],
+      "correct": "B",
+      "explanation": "源自 “Thank you” 的搞笑发音，日常可表示真诚感谢，也可吐槽。"
+    },
+    {
+      "id": 141,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 输出 mean?",
+      "options": [
+        "交付成果丨 Deliver output",
+        "出去丨 Go out",
+        "生产丨 Produce",
+        "发出丨 Send"
+      ],
+      "correct": "A",
+      "explanation": "职场指提交工作成果。"
+    },
+    {
+      "id": 142,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 咋地了 mean in Northeast dialect?",
+      "options": [
+        "怎么了 | What's wrong",
+        "干啥呢 | What are you doing",
+        "去哪了 | Where are you going",
+        "没事吧 | Are you okay"
+      ],
+      "correct": "D",
+      "explanation": "东北日常口语，表关心或质问，如 “你咋地了，脸色这么差”，语气亲切。"
+    },
+    {
+      "id": 143,
+      "topic": "生活常识",
+      "level": 1,
+      "text": "What does 熬夜 mean?",
+      "options": [
+        "熬夜，晚睡 | Stay up late",
+        "熬夜 | Stay up",
+        "睡觉 | Sleep",
+        "晚睡 | Go to bed late"
+      ],
+      "correct": "A",
+      "explanation": "指很晚才睡觉，是中国年轻人、上班族的常见生活状态，网络热词 “熬夜党”。"
+    },
+    {
+      "id": 144,
+      "topic": "古风诗词常识",
+      "level": 1,
+      "text": "What does \"但愿人长久\" wish for?",
+      "options": [
+        "亲人平安（团圆）| Family safety (reunion)",
+        "人长久（长寿）| Long life",
+        "但愿（不想）| Don’t wish",
+        "亲人平安（团圆）| Family safety (reunion)"
+      ],
+      "correct": "B",
+      "explanation": "苏轼《水调歌头》“但愿人长久，千里共婵娟”，祝亲人平安团圆。"
+    },
+    {
+      "id": 145,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 越狱 mean?",
+      "options": [
+        "破解限制丨 Jailbreak",
+        "监狱丨 Prison",
+        "逃跑丨 Escape",
+        "解锁丨 Unlock"
+      ],
+      "correct": "A",
+      "explanation": "苹果手机解除系统限制。"
+    },
+    {
+      "id": 146,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 打法 mean?",
+      "options": [
+        "策略方法丨 Strategy",
+        "打架丨 Fight",
+        "方法丨 Method",
+        "方式丨 Way"
+      ],
+      "correct": "A",
+      "explanation": "职场指做事策略、套路。"
+    },
+    {
+      "id": 147,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 风险预警 mean?",
+      "options": [
+        "风险提示丨 Risk warning",
+        "风险丨 Risk",
+        "警告丨 Warning",
+        "提前丨 In advance"
+      ],
+      "correct": "A",
+      "explanation": "提前提示可能出现的风险。"
+    },
+    {
+      "id": 148,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"摆烂\" mean?",
+      "options": [
+        "努力到极致 | Try your best",
+        "放弃努力 | Give up",
+        "摆烂的姿势 | Posture of giving up",
+        "认真生活 | Live seriously"
+      ],
+      "correct": "B",
+      "explanation": "指停止内耗，破罐子破摔，是年轻人逃避压力的一种生活方式。"
+    },
+    {
+      "id": 149,
+      "topic": "古风诗词常识",
+      "level": 1,
+      "text": "What is \"东篱\" a symbol of in poetry?",
+      "options": [
+        "东篱（房子）| East fence (house)",
+        "东篱（东边）| East fence (east)",
+        "菊花（隐士）| Chrysanthemum (hermit)",
+        "东篱（花园）| East fence (garden)"
+      ],
+      "correct": "C",
+      "explanation": "陶渊明 “采菊东篱下”，“东篱” 后指代菊花和隐士生活。"
+    },
+    {
+      "id": 150,
+      "topic": "影视综艺梗",
+      "level": 1,
+      "text": "What does \"名台词\" mean?",
+      "options": [
+        "出名的台词（广告）| Famous ad line",
+        "名字的台词（角色名）| Name line",
+        "经典台词（流传广）| Famous line",
+        "有名的对话（访谈）| Famous dialogue"
+      ],
+      "correct": "C",
+      "explanation": "影视中让人记住的台词，如《大话西游》“如果非要加个期限” 是名台词。"
+    },
+    {
+      "id": 151,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 结果导向 mean?",
+      "options": [
+        "方向丨 Direction",
+        "结果丨 Result",
+        "以结果为重丨 Result-oriented",
+        "导向丨 Guide"
+      ],
+      "correct": "C",
+      "explanation": "工作以最终结果为目标。"
+    },
+    {
+      "id": 152,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 攻坚 mean?",
+      "options": [
+        "攻克难题丨 Tackle problem",
+        "攻击丨 Attack",
+        "坚固丨 Strong",
+        "难题丨 Problem"
+      ],
+      "correct": "A",
+      "explanation": "集中力量解决难点。"
+    },
+    {
+      "id": 153,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 点赞 mean?",
+      "options": [
+        "点赞丨 Like",
+        "评论丨 Comment",
+        "分享丨 Share",
+        "收藏丨 Collect"
+      ],
+      "correct": "A",
+      "explanation": "社交平台表示喜欢、支持。"
+    },
+    {
+      "id": 154,
+      "topic": "影视综艺梗",
+      "level": 1,
+      "text": "What does 社牛天花板 mean?",
+      "options": [
+        "社交牛掰的最高境界 | The highest level of social butterfly",
+        "天花板上的社牛 | Social butterfly on the ceiling",
+        "社牛喜欢天花板 | Social butterfly likes ceiling",
+        "天花板是社牛 | Ceiling is a social butterfly"
+      ],
+      "correct": "C",
+      "explanation": "综艺常用梗，形容人的社交能力强到极致，比如 “他在节目上和谁都能聊，简直是社牛天花板”。"
+    },
+    {
+      "id": 155,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 别介意 mean?",
+      "options": [
+        "别在意丨 Don't mind",
+        "别记住丨 Don't remember",
+        "别关心丨 Don't care",
+        "别在意我丨 Don't mind me"
+      ],
+      "correct": "A",
+      "explanation": "安慰对方不要放在心上。"
+    },
+    {
+      "id": 156,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does 绝绝子 mean?",
+      "options": [
+        "绝了，太赞了 | Awesome / Amazing",
+        "绝对的孩子 | Absolute kid",
+        "绝食 | Go on a diet",
+        "绝配 | Perfect match"
+      ],
+      "correct": "A",
+      "explanation": "网络流行语，用来形容事物极度好（绝绝子）或极度差（太绝了），语气夸张。"
+    },
+    {
+      "id": 157,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 搬起石头砸自己的脚 mean?",
+      "options": [
+        "搬石头砸自己的脚 | Lift a stone to hit one's own foot",
+        "自作自受 | Shoot oneself in the foot",
+        "石头砸脚很疼 | A stone hitting the foot hurts",
+        "喜欢搬石头 | Like lifting stones"
+      ],
+      "correct": "A",
+      "explanation": "比喻做了坏事，最后害了自己，自食恶果，比如 “他想陷害别人，结果搬起石头砸自己的脚，自己被惩罚了”。"
+    },
+    {
+      "id": 158,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 算了吧 mean?",
+      "options": [
+        "放弃 | Abandon",
+        "计算 | Calculate",
+        "算了 | Let it be",
+        "算了，放弃 | Let it go / Forget it"
+      ],
+      "correct": "D",
+      "explanation": "口语中表放弃、作罢，比如 “算了吧，别争了”，表不想继续。"
+    },
+    {
+      "id": 159,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 妥了 mean?",
+      "options": [
+        "搞定 | Settle",
+        "妥当 | Proper",
+        "妥 | Okay",
+        "好了，搞定了 | Done / Okay"
+      ],
+      "correct": "D",
+      "explanation": "东北方言，表事情办妥、没问题，比如 “妥了，放心吧”，口语常用。"
+    },
+    {
+      "id": 160,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does 主打一个 mean?",
+      "options": [
+        "主打一个… | The core is…",
+        "主打一个产品 | Main product",
+        "主打一个人 | Main person",
+        "主打一个服务 | Main service"
+      ],
+      "correct": "A",
+      "explanation": "网络句式，用来强调核心态度 / 行为，比如 “主打一个随缘”“主打一个陪伴”，是年轻人的口头禅。"
+    },
+    {
+      "id": 161,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does 显眼包 mean in a cute way?",
+      "options": [
+        "爱出风头的小可爱 | Cute show-off",
+        "显眼的包包 | Eye-catching bag",
+        "长得很显眼的人 | Noticeable person",
+        "喜欢包的人 | People who like bags"
+      ],
+      "correct": "C",
+      "explanation": "原略带贬义，现变可爱梗，指自带笑点、爱表现的人，比如 “德云社的显眼包们太搞笑了”。"
+    },
+    {
+      "id": 162,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"下头\" mean?",
+      "options": [
+        "让人兴奋 | Exciting",
+        "让人扫兴 | Ruin the mood",
+        "开心 | Happy",
+        "生气 | Angry"
+      ],
+      "correct": "B",
+      "explanation": "形容某事让人感到扫兴、反感、瞬间没兴致。"
+    },
+    {
+      "id": 163,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 搞事 mean in South China dialects?",
+      "options": [
+        "闹事 | Make trouble",
+        "做事 | Do things",
+        "搞事情 | Start something",
+        "找麻烦 | Find trouble"
+      ],
+      "correct": "A",
+      "explanation": "南方多地通用方言，偏口语，可表贬义 “闹事”，也可调侃 “搞点事情”。"
+    },
+    {
+      "id": 164,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does \"对齐预期\" mean in a meeting?",
+      "options": [
+        "对齐预期（无关）| Irrelevant",
+        "对齐（排队）| Line up",
+        "预期（目标）| Goal",
+        "统一想法（避免分歧）| Align expectations"
+      ],
+      "correct": "D",
+      "explanation": "领导让大家想法一致，如 “先对齐预期，再讨论方案”，表统一方向。"
+    },
+    {
+      "id": 165,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 方案输出 mean?",
+      "options": [
+        "提交方案丨 Deliver plan",
+        "输出丨 Output",
+        "方案丨 Plan",
+        "提交丨 Submit"
+      ],
+      "correct": "A",
+      "explanation": "完成并提交方案成果。"
+    },
+    {
+      "id": 166,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 掩耳盗铃 mean?",
+      "options": [
+        "捂耳朵偷铃铛 | Cover ears to steal a bell",
+        "掩耳 | Cover ears",
+        "偷铃铛 | Steal a bell",
+        "自欺欺人 | Deceive oneself"
+      ],
+      "correct": "D",
+      "explanation": "比喻自己欺骗自己，明明掩盖不了的事偏要设法掩盖，是贬义词。"
+    },
+    {
+      "id": 167,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does 社牛症 mean?",
+      "options": [
+        "社交牛掰症 | Social butterfly syndrome",
+        "牛的社交行为 | Cow's social behavior",
+        "社交恐惧症的反义词 | Opposite of social anxiety",
+        "喜欢和牛社交 | Like socializing with cows"
+      ],
+      "correct": "A",
+      "explanation": "形容人社交能力超强，不怕生、敢发言，在任何场合都能侃侃而谈，社恐的终极羡慕对象。"
+    },
+    {
+      "id": 168,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 趁热打铁 mean?",
+      "options": [
+        "打铁很热 | Hit iron hot",
+        "抓住时机 | Strike while the iron is hot",
+        "煮铁 | Cook iron",
+        "天气热 | Hot weather"
+      ],
+      "correct": "B",
+      "explanation": "比喻要趁着有利的时机和条件去做事，不要错过机会，是中国经典谚语。"
+    },
+    {
+      "id": 169,
+      "topic": "影视综艺梗",
+      "level": 1,
+      "text": "What does \"下饭\" mean for a variety show?",
+      "options": [
+        "看综艺配饭（解闷）| Watch while eating",
+        "做饭（综艺环节）| Cook food",
+        "下饭（菜好吃）| Delicious dish",
+        "没饭（综艺梗）| No rice"
+      ],
+      "correct": "A",
+      "explanation": "形容综艺有趣，适合吃饭时看，如 “这综艺太下饭，我能多吃一碗饭”。"
+    },
+    {
+      "id": 170,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 网盘 mean?",
+      "options": [
+        "云存储丨 Cloud storage",
+        "硬盘丨 Hard disk",
+        "U 盘丨 USB drive",
+        "手机丨 Phone"
+      ],
+      "correct": "A",
+      "explanation": "在线存储文件。"
+    },
+    {
+      "id": 171,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does 躺平式恋爱 mean?",
+      "options": [
+        "躺着谈恋爱 | Fall in love lying down",
+        "不主动不付出的恋爱 | Love without initiative or effort",
+        "在躺平区谈恋爱 | Fall in love in the lying flat area",
+        "佛系的恋爱 | Buddha-style love"
+      ],
+      "correct": "D",
+      "explanation": "年轻人恋爱新方式，不粘人、不折腾、不追求轰轰烈烈，主打一个轻松自在。"
+    },
+    {
+      "id": 172,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 别闹 mean?",
+      "options": [
+        "别调皮丨 Stop messing around",
+        "别吵闹丨 Don't make noise",
+        "别闹脾气丨 Don't be naughty",
+        "别开玩笑丨 Don't joke"
+      ],
+      "correct": "A",
+      "explanation": "让对方停止调皮、胡闹。"
+    },
+    {
+      "id": 173,
+      "topic": "影视综艺梗",
+      "level": 1,
+      "text": "What does 剧透 mean for a drama?",
+      "options": [
+        "提前说剧情 | Spoil the plot in advance",
+        "透露嘉宾 | Reveal the guest",
+        "透露播出时间 | Reveal the broadcast time",
+        "透露拍摄地点 | Reveal the shooting location"
+      ],
+      "correct": "B",
+      "explanation": "追剧人的大忌，指有人提前公布剧情结局，比如 “别剧透，我还没看到最后一集”。"
+    },
+    {
+      "id": 174,
+      "topic": "影视综艺梗",
+      "level": 1,
+      "text": "What does 圈粉无数 mean for a celebrity?",
+      "options": [
+        "吸引了很多粉丝 | Gain a lot of fans",
+        "粉丝圈起来了 | Fans are circled",
+        "粉丝数量很多 | A lot of fans",
+        "喜欢圈粉丝 | Like to circle fans"
+      ],
+      "correct": "B",
+      "explanation": "形容明星因在综艺 / 影视中的表现好，吸引了大量新粉丝，比如 “他在节目上太可爱，圈粉无数”。"
+    },
+    {
+      "id": 175,
+      "topic": "古风诗词常识",
+      "level": 1,
+      "text": "What does \"独在异乡为异客\" express?",
+      "options": [
+        "异客（朋友）| Foreign guest (friend)",
+        "异乡（家乡）| Foreign land (hometown)",
+        "思乡（孤独）| Homesickness (loneliness)",
+        "独在（多人）| Alone (many people)"
+      ],
+      "correct": "C",
+      "explanation": "王维《九月九日忆山东兄弟》诗句，写在外地的孤独和思乡。"
+    },
+    {
+      "id": 176,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 贼拉好看 mean in Northeast dialect?",
+      "options": [
+        "贼好看 | Very beautiful",
+        "超级好看 | Super beautiful",
+        "特别好看 | Especially beautiful",
+        "贼拉的好看 | Extremely beautiful"
+      ],
+      "correct": "D",
+      "explanation": "东北话夸张夸赞，“贼拉” 是程度副词，比 “很、非常” 更有气势，比如 “这姑娘长得贼拉好看”。"
+    },
+    {
+      "id": 177,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 你说了算 mean?",
+      "options": [
+        "你决定丨 You decide",
+        "听你的丨 Follow you",
+        "你说话丨 You speak",
+        "你做主丨 You are in charge"
+      ],
+      "correct": "D",
+      "explanation": "表示完全听从对方安排。"
+    },
+    {
+      "id": 178,
+      "topic": "生活常识",
+      "level": 1,
+      "text": "What does 亲戚称呼 mean?",
+      "options": [
+        "亲戚的称呼 | Relatives' titles",
+        "亲戚 | Relatives",
+        "称呼 | Title",
+        "称谓 | Address"
+      ],
+      "correct": "A",
+      "explanation": "中国亲戚称呼体系复杂，比如舅舅、阿姨、姑姑、伯伯等，是中国家庭文化特色。"
+    },
+    {
+      "id": 179,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 倍速 mean?",
+      "options": [
+        "播放速度丨 Playback speed",
+        "倍数丨 Multiple",
+        "速度丨 Speed",
+        "加快丨 Speed up"
+      ],
+      "correct": "B",
+      "explanation": "调整视频播放快慢。"
+    },
+    {
+      "id": 180,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 别介 mean?",
+      "options": [
+        "别这样，不要 | Don't do that",
+        "介意 | Mind",
+        "别 | Don't",
+        "这样 | Like this"
+      ],
+      "correct": "A",
+      "explanation": "北方方言，用来劝阻、拒绝，比如 “别介，别客气”“别介，我来就行”。"
+    },
+    {
+      "id": 181,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 真行啊 mean?",
+      "options": [
+        "真厉害丨 Awesome",
+        "真行丨 Really okay",
+        "真不行丨 Really bad",
+        "真能干丨 Really capable"
+      ],
+      "correct": "A",
+      "explanation": "夸赞对方能干、厉害。"
+    },
+    {
+      "id": 182,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 行吧 mean?",
+      "options": [
+        "行吧，勉强同意 | Alright / Okay then",
+        "行 | Okay",
+        "好吧 | Alright",
+        "同意 | Agree"
+      ],
+      "correct": "A",
+      "explanation": "口语中表勉强同意、无奈，比如 “行吧，就听你的”，语气带妥协。"
+    },
+    {
+      "id": 183,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 脚踏实地 mean?",
+      "options": [
+        "踩在地上 | Step on ground",
+        "踏实认真 | Down-to-earth",
+        "脚在地板 | Feet on floor",
+        "现实地板 | Realistic floor"
+      ],
+      "correct": "B",
+      "explanation": "形容做事踏实、认真、不浮躁，一步一个脚印，是褒义词。"
+    },
+    {
+      "id": 184,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 唠嗑 mean in Northeast dialect?",
+      "options": [
+        "聊天 | Chat",
+        "唠嗑 | Chatting",
+        "说话 | Speak",
+        "闲谈 | Casual talk"
+      ],
+      "correct": "C",
+      "explanation": "东北方言，指朋友间轻松的闲谈，如 “晚上来我家唠嗑”，偏口语化。"
+    },
+    {
+      "id": 185,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 拉齐 mean?",
+      "options": [
+        "拉开丨 Pull apart",
+        "统一标准丨 Unify standard",
+        "对齐丨 Align",
+        "平等丨 Equal"
+      ],
+      "correct": "B",
+      "explanation": "让信息、认知保持一致。"
+    },
+    {
+      "id": 186,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does 栓 Q + 我真的会谢 mean?",
+      "options": [
+        "真诚感谢 | Sincere thanks",
+        "阴阳怪气的感谢 / 吐槽 | Sarcastic thanks/complaint",
+        "向栓 Q 道谢 | Thank Shuan Q",
+        "谢谢自己 | Thank oneself"
+      ],
+      "correct": "B",
+      "explanation": "栓 Q + 谢的组合梗，可表无语、吐槽、无奈，比如 “上班迟到被扣钱，我真的会谢栓 Q”。"
+    },
+    {
+      "id": 187,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 恢复 mean?",
+      "options": [
+        "数据还原丨 Restore",
+        "回去丨 Back",
+        "修复丨 Repair",
+        "正常丨 Normal"
+      ],
+      "correct": "A",
+      "explanation": "把数据还原到设备。"
+    },
+    {
+      "id": 188,
+      "topic": "生活常识",
+      "level": 1,
+      "text": "What is 外卖？",
+      "options": [
+        "卖外面 | Sell outside",
+        "外卖 / 送餐 | Takeaway / Food delivery",
+        "在外面 | Outside",
+        "外面邮件 | Out mail"
+      ],
+      "correct": "B",
+      "explanation": "指通过 APP 点单，商家送餐上门的服务，是中国年轻人日常吃饭的主流方式。"
+    },
+    {
+      "id": 189,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does 泰酷辣 mean?",
+      "options": [
+        "太酷了 | So cool",
+        "泰国辣椒 | Thai chili",
+        "太辣了 | Too spicy",
+        "太酷啦 | So cool"
+      ],
+      "correct": "D",
+      "explanation": "谐音 “太酷啦”，源自网红梗，用来夸赞事物超酷，语气夸张有感染力。"
+    },
+    {
+      "id": 190,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 面容 ID mean?",
+      "options": [
+        "面部识别丨 Face ID",
+        "面容丨 Face",
+        "号码丨 ID",
+        "识别丨 Identify"
+      ],
+      "correct": "A",
+      "explanation": "面部解锁手机。"
+    },
+    {
+      "id": 191,
+      "topic": "历史文化",
+      "level": 1,
+      "text": "What is 龙 a symbol of in China?",
+      "options": [
+        "Power and good luck | 权力与祥瑞",
+        "Wealth | 财富",
+        "Health | 健康",
+        "Happiness | 幸福"
+      ],
+      "correct": "A",
+      "explanation": "龙是中国的图腾，象征着权力、祥瑞、吉祥，是中华民族的文化象征。"
+    },
+    {
+      "id": 192,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 同步信息 mean?",
+      "options": [
+        "信息丨 Information",
+        "同时丨 Same time",
+        "步骤丨 Step",
+        "共享信息丨 Share info"
+      ],
+      "correct": "D",
+      "explanation": "让大家掌握相同信息。"
+    },
+    {
+      "id": 193,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 咯 mean?",
+      "options": [
+        "语气词，表提醒 / 确认 | Modal particle",
+        "咯咯笑 | Giggle",
+        "咯 | Lo",
+        "确认 | Confirm"
+      ],
+      "correct": "A",
+      "explanation": "句末语气词，表提醒、确认，比如 “好咯”“走咯”，语气轻松。"
+    },
+    {
+      "id": 194,
+      "topic": "影视综艺梗",
+      "level": 1,
+      "text": "What does 神反转 mean in a drama?",
+      "options": [
+        "剧情突然反转 | The plot takes a surprising twist",
+        "神仙反转剧情 | Godly twist plot",
+        "反转的神仙角色 | Twisted god character",
+        "剧情反转很神 | The plot twist is amazing"
+      ],
+      "correct": "C",
+      "explanation": "追剧的快乐源泉，指剧情发展完全超出预期，比如 “最后一集神反转，凶手居然是他，我没想到”。"
+    },
+    {
+      "id": 195,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 向上管理 mean?",
+      "options": [
+        "管理上级丨 Manage up",
+        "向上丨 Up",
+        "管理丨 Manage",
+        "领导丨 Leader"
+      ],
+      "correct": "A",
+      "explanation": "主动与上级沟通协作。"
+    },
+    {
+      "id": 196,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 内存 mean?",
+      "options": [
+        "运行空间丨 RAM",
+        "内容丨 Content",
+        "存储丨 Storage",
+        "空间丨 Space"
+      ],
+      "correct": "A",
+      "explanation": "设备运行程序的空间。"
+    },
+    {
+      "id": 197,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 兜底 mean?",
+      "options": [
+        "口袋丨 Pocket",
+        "承担后果丨 Cover the end",
+        "底部丨 Bottom",
+        "承担丨 Bear"
+      ],
+      "correct": "B",
+      "explanation": "负责到底，承担风险。"
+    },
+    {
+      "id": 198,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does \"辛苦了\" mean from a boss?",
+      "options": [
+        "辛苦了（放假）| Give holiday",
+        "真辛苦（给加班费）| Real hard work",
+        "口头安慰（没实际奖励）| Verbal comfort",
+        "辛苦了（升职）| Promote"
+      ],
+      "correct": "C",
+      "explanation": "老板随口安慰，如 “今天加班辛苦了”，没有实际福利。"
+    },
+    {
+      "id": 199,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 颗粒度 mean?",
+      "options": [
+        "大小丨 Size",
+        "颗粒丨 Particle",
+        "细节程度丨 Detail level",
+        "程度丨 Level"
+      ],
+      "correct": "C",
+      "explanation": "指计划、方案的细致程度。"
+    },
+    {
+      "id": 200,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 兼容 mean?",
+      "options": [
+        "适配支持丨 Compatible",
+        "兼顾丨 Combine",
+        "支持丨 Support",
+        "匹配丨 Match"
+      ],
+      "correct": "A",
+      "explanation": "设备 / 系统互相适配。"
+    },
+    {
+      "id": 201,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 破圈 mean?",
+      "options": [
+        "圆圈丨 Circle",
+        "破坏丨 Break",
+        "突破圈层丨 Break circle",
+        "出圈丨 Go out"
+      ],
+      "correct": "C",
+      "explanation": "突破原有圈子，扩大影响。"
+    },
+    {
+      "id": 202,
+      "topic": "历史文化",
+      "level": 1,
+      "text": "What is 京剧's main role type?",
+      "options": [
+        "Sheng | 生",
+        "Dan | 旦",
+        "Jing | 净",
+        "Chou | 丑"
+      ],
+      "correct": "D",
+      "explanation": "京剧有四大行当：生（男性）、旦（女性）、净（花脸）、丑（喜剧角色），缺一不可。"
+    },
+    {
+      "id": 203,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 中 mean in Henan dialect?",
+      "options": [
+        "中间 | Middle",
+        "中国 | China",
+        "行 / 可以 | OK/Yes",
+        "中等 | Medium"
+      ],
+      "correct": "A",
+      "explanation": "河南话万能回答，别人问你 “去吃饭不？”，答 “中” 就完事，简洁又霸气，河南人的专属浪漫。"
+    },
+    {
+      "id": 204,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 续航 mean?",
+      "options": [
+        "使用时长丨 Battery life",
+        "航行丨 Sail",
+        "距离丨 Distance",
+        "时间丨 Time"
+      ],
+      "correct": "A",
+      "explanation": "设备电池可用时长。"
+    },
+    {
+      "id": 205,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 聚焦 mean?",
+      "options": [
+        "聚集丨 Gather",
+        "巨大丨 Huge",
+        "专注重点丨 Focus",
+        "对焦丨 Focus"
+      ],
+      "correct": "C",
+      "explanation": "集中精力做核心事。"
+    },
+    {
+      "id": 206,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 服务器 mean?",
+      "options": [
+        "网络主机丨 Server",
+        "服务丨 Service",
+        "机器丨 Machine",
+        "电脑丨 Computer"
+      ],
+      "correct": "A",
+      "explanation": "提供网络服务的主机。"
+    },
+    {
+      "id": 207,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 心智 mean?",
+      "options": [
+        "心灵丨 Mind",
+        "认知认知丨 Cognition",
+        "智力丨 Intelligence",
+        "心理丨 Psychology"
+      ],
+      "correct": "B",
+      "explanation": "用户对品牌 / 产品的认知。"
+    },
+    {
+      "id": 208,
+      "topic": "历史文化",
+      "level": 1,
+      "text": "What is 书法's five major scripts?",
+      "options": [
+        "Regular script | 楷书",
+        "Cursive script | 草书",
+        "Running script | 行书",
+        "All of the above | 以上都是"
+      ],
+      "correct": "B",
+      "explanation": "中国书法五大书体：篆书、隶书、楷书、行书、草书，各有特色，风格迥异。"
+    },
+    {
+      "id": 209,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 资源倾斜 mean?",
+      "options": [
+        "偏向丨 Bias",
+        "倾斜丨 Tilt",
+        "资源丨 Resources",
+        "重点支持丨 Prioritize support"
+      ],
+      "correct": "D",
+      "explanation": "把资源优先给重点项目。"
+    },
+    {
+      "id": 210,
+      "topic": "美食",
+      "level": 1,
+      "text": "What is 粽子 eaten on which festival?",
+      "options": [
+        "Spring Festival | 春节",
+        "Dragon Boat Festival | 端午节",
+        "Mid-Autumn Festival | 中秋节",
+        "National Day | 国庆节"
+      ],
+      "correct": "A",
+      "explanation": "端午传统美食，由糯米包裹粽叶制成，分甜咸口，纪念屈原的传统习俗。"
+    },
+    {
+      "id": 211,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 别客气 mean?",
+      "options": [
+        "不用谢丨 You're welcome",
+        "别害羞丨 Don't be shy",
+        "别说话丨 Don't talk",
+        "别生气丨 Don't be angry"
+      ],
+      "correct": "A",
+      "explanation": "回应感谢的标准礼貌用语，最常用。"
+    },
+    {
+      "id": 212,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 击穿心智 mean?",
+      "options": [
+        "打破丨 Break through",
+        "深刻记住丨 Deeply impress",
+        "心智丨 Mind",
+        "记住丨 Remember"
+      ],
+      "correct": "B",
+      "explanation": "让用户深刻记住品牌。"
+    },
+    {
+      "id": 213,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"哈哈哈～葱到我算是提到棉花啦\" describe?",
+      "options": [
+        "性子软、好说话 | Soft personality, easy-going",
+        "提到棉花 | Mention cotton",
+        "葱很软 | Green onion is soft",
+        "性格温和 | Gentle personality"
+      ],
+      "correct": "A",
+      "explanation": "谐音 “冲到我算是提到棉花啦”，形容人性格软，怎么说都不生气。"
+    },
+    {
+      "id": 214,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 截图 mean?",
+      "options": [
+        "屏幕截图丨 Screenshot",
+        "剪切丨 Cut",
+        "图片丨 Picture",
+        "拍摄丨 Shoot"
+      ],
+      "correct": "A",
+      "explanation": "截取当前屏幕画面。"
+    },
+    {
+      "id": 215,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 恭喜 mean?",
+      "options": [
+        "祝贺丨 Congratulations",
+        "开心丨 Happy",
+        "幸运丨 Lucky",
+        "祝福丨 Bless"
+      ],
+      "correct": "A",
+      "explanation": "对喜事、成功、获奖表示祝贺。"
+    },
+    {
+      "id": 216,
+      "topic": "生活常识",
+      "level": 1,
+      "text": "What is 红包？",
+      "options": [
+        "红色纸张 | Red paper",
+        "装钱的红包 | Envelope with money",
+        "红色袋子 | Red bag",
+        "红色卡片 | Red card"
+      ],
+      "correct": "B",
+      "explanation": "中国传统习俗，春节、婚礼等场合长辈给晚辈 / 新人的装钱红包，代表祝福。"
+    },
+    {
+      "id": 217,
+      "topic": "生活常识",
+      "level": 1,
+      "text": "What does 拼单 mean?",
+      "options": [
+        "一起买 | Buy together",
+        "拼订单 | Combine orders",
+        "拼单 | Group buy",
+        "一起拼着买更便宜 | Buy together for discount"
+      ],
+      "correct": "D",
+      "explanation": "电商平台常见玩法，多人一起拼单购买，享受更低价格，是中国网购特色。"
+    },
+    {
+      "id": 218,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does 主打一个真实 mean?",
+      "options": [
+        "核心是真诚 | The core is sincerity",
+        "主打一款真实产品 | Promote a real product",
+        "说话很直 | Speak directly",
+        "做人很实在 | Be a down-to-earth person"
+      ],
+      "correct": "D",
+      "explanation": "网络万能句式，用来强调自己的态度，比如 “今天不化妆，主打一个真实”。"
+    },
+    {
+      "id": 219,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"一吃一个不吱声\" mean?",
+      "options": [
+        "形容超爱吃某样东西 | Describe loving a food so much",
+        "吃了不说话 | Eat without talking",
+        "一口一个 | One bite one",
+        "吃了不吱声 | Eat silently"
+      ],
+      "correct": "C",
+      "explanation": "年轻人美食梗，形容食物太好吃，一口下去直接沉默，只顾着吃。"
+    },
+    {
+      "id": 220,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does 摆烂式养生 mean?",
+      "options": [
+        "一边作死一边养生 | Indulge and keep healthy at the same time",
+        "摆烂的时候不养生 | No health preservation when giving up",
+        "养生摆烂的姿势 | Posture of giving up health preservation",
+        "用摆烂的方式养生 | Keep healthy by giving up"
+      ],
+      "correct": "A",
+      "explanation": "当代年轻人养生现状，比如 “一边熬夜一边涂眼霜，一边吃火锅一边喝凉茶”，主打一个自我安慰。"
+    },
+    {
+      "id": 221,
+      "topic": "古风诗词常识",
+      "level": 1,
+      "text": "What is \"婵娟\" in \"千里共婵娟\"?",
+      "options": [
+        "月亮（相思）| Moon (yearning)",
+        "婵娟（美女）| Beauty",
+        "婵娟（朋友）| Friend",
+        "婵娟（家人）| Family"
+      ],
+      "correct": "A",
+      "explanation": "苏轼诗句，“婵娟” 代指月亮，表和亲人共赏同一轮月。"
+    },
+    {
+      "id": 222,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"哈哈哈哈被自己穷笑啦\" mean?",
+      "options": [
+        "自嘲穷 | Self-deprecating",
+        "笑自己 | Laugh",
+        "很穷 | Poor",
+        "笑死 | Laughing to death"
+      ],
+      "correct": "A",
+      "explanation": "搞笑自嘲，说自己穷到笑出声。"
+    },
+    {
+      "id": 223,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 体感 mean?",
+      "options": [
+        "用户感受丨 User experience",
+        "身体感觉丨 Body feeling",
+        "体验丨 Experience",
+        "感觉丨 Feeling"
+      ],
+      "correct": "A",
+      "explanation": "职场指用户 / 员工真实感受。"
+    },
+    {
+      "id": 224,
+      "topic": "古风诗词常识",
+      "level": 1,
+      "text": "What does \"春风又绿江南岸\" mean?",
+      "options": [
+        "春天到江南（写景）| Spring comes to Jiangnan",
+        "春风（冬天）| Spring wind (winter)",
+        "绿（红色）| Green (red)",
+        "春天到江南（写景）| Spring comes to Jiangnan"
+      ],
+      "correct": "B",
+      "explanation": "王安石诗句，“绿” 字用得极妙，写春天江南变绿的景色。"
+    },
+    {
+      "id": 225,
+      "topic": "历史文化",
+      "level": 1,
+      "text": "What is 宣纸 famous for?",
+      "options": [
+        "Calligraphy | 书法",
+        "Painting | 绘画",
+        "Paper cutting | 剪纸",
+        "Crafts | 手工艺"
+      ],
+      "correct": "B",
+      "explanation": "安徽宣城特产，是中国传统书画专用纸，质地柔软，吸墨性好，适合书法绘画。"
+    },
+    {
+      "id": 226,
+      "topic": "影视综艺梗",
+      "level": 1,
+      "text": "What does \"工具人\" mean in a variety show?",
+      "options": [
+        "会用工具（技能）| Can use tools",
+        "工具的人（道具组）| Tool person",
+        "被利用的嘉宾（打杂）| Used as a tool",
+        "工具爱好者（嘉宾人设）| Tool lover"
+      ],
+      "correct": "C",
+      "explanation": "指综艺中帮别人做事却没镜头的嘉宾，如 “他全程当工具人，太惨了”。"
+    },
+    {
+      "id": 227,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 改天见 mean?",
+      "options": [
+        "明天见丨 See you tomorrow",
+        "改天再见丨 See you another day",
+        "再也不见丨 Never see you again",
+        "下午见丨 See you this afternoon"
+      ],
+      "correct": "B",
+      "explanation": "中文客套话，不一定定具体时间，表礼貌告别。"
+    },
+    {
+      "id": 228,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 维护 mean?",
+      "options": [
+        "系统保养丨 Maintenance",
+        "维持丨 Maintain",
+        "保护丨 Protect",
+        "修理丨 Repair"
+      ],
+      "correct": "A",
+      "explanation": "服务器 / 系统定期保养。"
+    },
+    {
+      "id": 229,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 听你的 mean?",
+      "options": [
+        "按你说的丨 Follow you",
+        "听声音丨 Listen to sound",
+        "听你说话丨 Listen to you",
+        "听你安排丨 Follow your plan"
+      ],
+      "correct": "A",
+      "explanation": "表示听从对方决定。"
+    },
+    {
+      "id": 230,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 录屏 mean?",
+      "options": [
+        "录制屏幕丨 Screen record",
+        "录像丨 Record",
+        "屏幕丨 Screen",
+        "拍摄丨 Film"
+      ],
+      "correct": "A",
+      "explanation": "录制屏幕操作视频。"
+    },
+    {
+      "id": 231,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 像素 mean?",
+      "options": [
+        "图像精度丨 Pixel",
+        "元素丨 Element",
+        "图像丨 Image",
+        "精度丨 Accuracy"
+      ],
+      "correct": "A",
+      "explanation": "决定照片 / 屏幕清晰度。"
+    },
+    {
+      "id": 232,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 不见棺材不落泪 mean?",
+      "options": [
+        "不见棺材不哭 | Not cry until see coffin",
+        "不哭 | Don't cry",
+        "不到最后不认错 | Refuse to admit until forced",
+        "怕棺材 | Afraid of coffin"
+      ],
+      "correct": "C",
+      "explanation": "比喻不到彻底失败、走投无路的时候，不肯死心、不肯认错。"
+    },
+    {
+      "id": 233,
+      "topic": "古风诗词常识",
+      "level": 1,
+      "text": "What does \"海内存知己\" mean?",
+      "options": [
+        "海内存（没有）| No friends",
+        "海内（国内）| Within the sea (domestic)",
+        "知己（敌人）| Bosom friend (enemy)",
+        "朋友在四海（友情）| Friends everywhere (friendship)"
+      ],
+      "correct": "D",
+      "explanation": "王勃《送杜少府之任蜀州》诗句，表友情不受距离限制，“天涯若比邻” 是下句。"
+    },
+    {
+      "id": 234,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does \"有一说一\" mean in a meeting?",
+      "options": [
+        "有一个说一个（数量）| One by one",
+        "客观说（先肯定再提意见）| To be honest",
+        "说一句话（发言）| Say one sentence",
+        "有一说一（规则）| Rule of one"
+      ],
+      "correct": "B",
+      "explanation": "职场常用开场，如 “有一说一，这个想法很好，但执行有问题”，表中立。"
+    },
+    {
+      "id": 235,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 存储 mean?",
+      "options": [
+        "存储空间丨 Storage",
+        "保存丨 Save",
+        "存在丨 Exist",
+        "储存丨 Store"
+      ],
+      "correct": "A",
+      "explanation": "设备保存文件的空间。"
+    },
+    {
+      "id": 236,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"City 不 City\" mean?",
+      "options": [
+        "城市不城市 | City or not",
+        "时尚不时尚 | Fashion or not",
+        "有趣不有趣 | Fun or not",
+        "有没有现代感 | Modern or not"
+      ],
+      "correct": "D",
+      "explanation": "问一个地方 / 事物是否时髦、现代化、有趣。"
+    },
+    {
+      "id": 237,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 闪退 mean?",
+      "options": [
+        "软件突然关闭丨 App crashes",
+        "网速慢丨 Slow network",
+        "没电丨 No power",
+        "卡顿丨 Freeze"
+      ],
+      "correct": "A",
+      "explanation": "APP 打开后突然自动退出。"
+    },
+    {
+      "id": 238,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 不用了 mean?",
+      "options": [
+        "不需要丨 No need",
+        "不用谢丨 You're welcome",
+        "不用管丨 Don't care",
+        "不用做丨 Don't do"
+      ],
+      "correct": "A",
+      "explanation": "委婉拒绝，不需要某物 / 帮助。"
+    },
+    {
+      "id": 239,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 上线 mean?",
+      "options": [
+        "发布使用丨 Launch",
+        "上网丨 Online",
+        "线上丨 Online",
+        "发布丨 Release"
+      ],
+      "correct": "A",
+      "explanation": "产品 / 功能正式发布。"
+    },
+    {
+      "id": 240,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 对牛弹琴 mean?",
+      "options": [
+        "对牛弹琴 | Play the harp to a cow",
+        "对不懂的人说话 | Talk to someone who doesn't understand",
+        "牛听不懂音乐 | Cows can't understand music",
+        "弹琴 | Play the harp"
+      ],
+      "correct": "B",
+      "explanation": "比喻对不懂道理的人讲道理，白费口舌，也用来讽刺说话不看对象的人。"
+    },
+    {
+      "id": 241,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 卡顿 mean?",
+      "options": [
+        "运行迟缓丨 Lag",
+        "卡住丨 Stuck",
+        "停顿丨 Pause",
+        "缓慢丨 Slow"
+      ],
+      "correct": "B",
+      "explanation": "手机 / 电脑运行不流畅。"
+    },
+    {
+      "id": 242,
+      "topic": "影视综艺梗",
+      "level": 1,
+      "text": "What does 臣妾做不到啊 come from?",
+      "options": [
+        "《甄嬛传》|Empresses in the Palace",
+        "《延禧攻略》|Story of Yanxi Palace",
+        "《还珠格格》|My Fair Princess",
+        "《步步惊心》|Scarlet Heart"
+      ],
+      "correct": "A",
+      "explanation": "《甄嬛传》皇后名场面，皇后哭诉自己做不到不爱皇上，全网爆火，现用来调侃自己做不到某件事。"
+    },
+    {
+      "id": 243,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 公测 mean?",
+      "options": [
+        "公开测试丨 Public beta",
+        "公开丨 Public",
+        "测试丨 Test",
+        "公告丨 Announcement"
+      ],
+      "correct": "A",
+      "explanation": "软件对外公开测试。"
+    },
+    {
+      "id": 244,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 项目排期 mean?",
+      "options": [
+        "项目丨 Project",
+        "制定时间表丨 Project schedule",
+        "排队丨 Line up",
+        "时间丨 Time"
+      ],
+      "correct": "B",
+      "explanation": "安排项目执行时间计划。"
+    },
+    {
+      "id": 245,
+      "topic": "影视综艺梗",
+      "level": 1,
+      "text": "What does 名场面 mean in variety shows?",
+      "options": [
+        "著名的场地 | Famous venue",
+        "经典的画面片段 | Classic scene",
+        "出名的嘉宾 | Famous guest",
+        "有名的台词 | Famous line"
+      ],
+      "correct": "A",
+      "explanation": "综艺里让人印象深刻的瞬间，比如嘉宾的搞笑发言、暖心互动，现用来形容一切经典瞬间。"
+    },
+    {
+      "id": 246,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 近朱者赤近墨者黑 mean?",
+      "options": [
+        "靠近朱砂变红，靠近墨变黑 | Near cinnabar turns red, near ink turns black",
+        "和优秀的人在一起会变优秀 | Be with good people and you'll be good",
+        "喜欢红色和黑色 | Like red and black",
+        "朱砂比墨好 | Cinnabar is better than ink"
+      ],
+      "correct": "B",
+      "explanation": "比喻环境影响人，和什么样的人在一起，就会变成什么样的人，主打一个 “圈子很重要”。"
+    },
+    {
+      "id": 247,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 啥 mean?",
+      "options": [
+        "什么 | What",
+        "所以 | So",
+        "沙 | Sand",
+        "看见 | Saw"
+      ],
+      "correct": "A",
+      "explanation": "北方方言，日常口语中 “什么” 的意思，比如 “干啥”“啥意思”，非常常用。"
+    },
+    {
+      "id": 248,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"社恐\" mean?",
+      "options": [
+        "社交恐惧 | Social anxiety",
+        "社交牛 | Social bravery",
+        "社交 | Social",
+        "聊天 | Chat"
+      ],
+      "correct": "A",
+      "explanation": "怕社交。"
+    },
+    {
+      "id": 249,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 俺 mean in Northern dialects?",
+      "options": [
+        "我 | I",
+        "我们 | We",
+        "俺们 | We",
+        "咱 | We"
+      ],
+      "correct": "A",
+      "explanation": "北方多地（山东、河南、东北等）方言，第一人称，比 “我” 更亲切接地气。"
+    },
+    {
+      "id": 250,
+      "topic": "历史文化",
+      "level": 1,
+      "text": "What is 中医's core therapy?",
+      "options": [
+        "Herbal medicine | 中药",
+        "Acupuncture | 针灸",
+        "Massage | 推拿",
+        "Cupping | 拔罐"
+      ],
+      "correct": "C",
+      "explanation": "中医四大经典疗法：中药、针灸、推拿、拔罐，核心是辨证施治，标本兼治。"
+    },
+    {
+      "id": 251,
+      "topic": "生活常识",
+      "level": 1,
+      "text": "What does 砍价 mean?",
+      "options": [
+        "砍价 | Cut price",
+        "砍东西 | Cut things",
+        "砍价格，讲价 | Bargain / Haggle",
+        "讲价 | Negotiate price"
+      ],
+      "correct": "C",
+      "explanation": "指买东西时和商家讨价还价，降低价格，是中国线下购物、菜市场的常见操作。"
+    },
+    {
+      "id": 252,
+      "topic": "古风诗词常识",
+      "level": 1,
+      "text": "What is \"红豆\" a symbol of in poetry?",
+      "options": [
+        "爱情（相思）| Love (yearning)",
+        "红豆（食物）| Red bean (food)",
+        "红豆（颜色）| Red bean (color)",
+        "爱情（相思）| Love (yearning)"
+      ],
+      "correct": "B",
+      "explanation": "王维《相思》“愿君多采撷，此物最相思”，红豆象征相思。"
+    },
+    {
+      "id": 253,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does 佛系青年 mean?",
+      "options": [
+        "信佛的年轻人 | Young Buddhists",
+        "无欲无求的年轻人 | Young people with no desires",
+        "喜欢佛系的人 | People who like Buddhism",
+        "佛系风格的穿搭 | Buddha-style clothing"
+      ],
+      "correct": "D",
+      "explanation": "网络流行人设，指对一切事情无所谓、不争不抢、随遇而安，主打一个 “都行、可以、没关系”。"
+    },
+    {
+      "id": 254,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 反哺 mean?",
+      "options": [
+        "回馈丨 Feed back",
+        "喂养丨 Feed",
+        "反向丨 Reverse",
+        "帮助丨 Help"
+      ],
+      "correct": "A",
+      "explanation": "用成果反哺团队 / 项目。"
+    },
+    {
+      "id": 255,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 别忘啦 mean?",
+      "options": [
+        "不要忘记丨 Don't forget",
+        "忘记丨 Forget",
+        "别忘事丨 Don't forget things",
+        "别忘我丨 Don't forget me"
+      ],
+      "correct": "A",
+      "explanation": "口语化提醒，语气轻松。"
+    },
+    {
+      "id": 256,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 不好意思 mean?",
+      "options": [
+        "抱歉丨 Sorry",
+        "害羞丨 Shy",
+        "不好意思吃丨 Embarrassed to eat",
+        "不好意思说丨 Embarrassed to say"
+      ],
+      "correct": "A",
+      "explanation": "道歉、打扰、麻烦别人时使用。"
+    },
+    {
+      "id": 257,
+      "topic": "美食",
+      "level": 1,
+      "text": "What is 麻婆豆腐's main taste?",
+      "options": [
+        "Spicy and numbing | 麻辣",
+        "Spicy | 辣",
+        "Numbing | 麻",
+        "Salty | 咸"
+      ],
+      "correct": "C",
+      "explanation": "四川经典名菜，由豆腐和牛肉末制成，核心口味是麻辣鲜香，下饭神器。"
+    },
+    {
+      "id": 258,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 众人拾柴火焰高 mean?",
+      "options": [
+        "大家一起拾柴，火焰会更高 | Everyone gathers firewood, the flame burns higher",
+        "人多力量大 | Many hands make light work",
+        "拾柴的人越多越好 | The more people gather firewood, the better",
+        "火焰高需要很多柴 | A high flame needs a lot of firewood"
+      ],
+      "correct": "C",
+      "explanation": "比喻大家团结起来，一起努力，就能办成大事，主打一个 “团结就是力量”。"
+    },
+    {
+      "id": 259,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"因为他善\" mean?",
+      "options": [
+        "无厘头回答一切问题 | Nonsense answer to any question",
+        "他很善良 | He is kind",
+        "因为善良 | Because of kindness",
+        "郭德纲的习惯 | Guo Degang's habit"
+      ],
+      "correct": "A",
+      "explanation": "源自郭德纲评书，现用来无厘头回答一切问题，主打一个万能梗。"
+    },
+    {
+      "id": 260,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 杀鸡焉用牛刀 mean?",
+      "options": [
+        "杀小鸡用牛刀 | Kill a chicken with a bull knife",
+        "小题大做 | Make a mountain out of a molehill",
+        "大材小用 | Use a sledgehammer to crack a nut",
+        "杀鸡需要牛刀 | Need a bull knife to kill a chicken"
+      ],
+      "correct": "C",
+      "explanation": "比喻用大本事办小事，大材小用，比如 “这点小事让他来做，简直杀鸡焉用牛刀”。"
+    },
+    {
+      "id": 261,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 呗 mean?",
+      "options": [
+        "宝贝 | Baby",
+        "买 | Buy",
+        "语气词，表建议 / 同意 | Soft modal particle",
+        "再见 | Bye"
+      ],
+      "correct": "C",
+      "explanation": "句末语气词，表建议、同意、无奈，比如 “行呗”“就这样呗”，口语常用。"
+    },
+    {
+      "id": 262,
+      "topic": "美食",
+      "level": 1,
+      "text": "What is 拉面 famous for in Lanzhou?",
+      "options": [
+        "Hand-pulled | 手工拉制",
+        "Thick noodles | 粗面",
+        "Thin noodles | 细面",
+        "Soup | 汤"
+      ],
+      "correct": "D",
+      "explanation": "兰州拉面核心特色是手工拉制，可拉成不同粗细，搭配清汤和牛肉，味道鲜美。"
+    },
+    {
+      "id": 263,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 下沉市场 mean?",
+      "options": [
+        "市场丨 Market",
+        "下沉丨 Sink",
+        "基层市场丨 Sinking market",
+        "底层丨 Bottom"
+      ],
+      "correct": "C",
+      "explanation": "指三四线及以下市场。"
+    },
+    {
+      "id": 264,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 下架 mean?",
+      "options": [
+        "停止服务丨 Remove",
+        "下面丨 Down",
+        "架子丨 Shelf",
+        "删除丨 Delete"
+      ],
+      "correct": "A",
+      "explanation": "产品从应用商店移除。"
+    },
+    {
+      "id": 265,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 内测 mean?",
+      "options": [
+        "内部测试丨 Internal beta",
+        "内部丨 Internal",
+        "测量丨 Measure",
+        "测试丨 Test"
+      ],
+      "correct": "A",
+      "explanation": "软件小范围内部测试。"
+    },
+    {
+      "id": 266,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 里程碑节点 mean?",
+      "options": [
+        "里程丨 Mileage",
+        "阶段节点丨 Milestone node",
+        "石头丨 Stone",
+        "节点丨 Node"
+      ],
+      "correct": "B",
+      "explanation": "项目重要阶段完成点。"
+    },
+    {
+      "id": 267,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 狐假虎威 mean?",
+      "options": [
+        "狐狸借老虎威风 | Fox borrows tiger's power",
+        "仗势欺人 | Bully others by power",
+        "借威风 | Borrow power",
+        "狐狸 | Fox"
+      ],
+      "correct": "B",
+      "explanation": "比喻依仗别人的权势来欺压、吓唬人，是贬义词。"
+    },
+    {
+      "id": 268,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 划水 mean online?",
+      "options": [
+        "摸鱼偷懒丨 Slack off",
+        "游泳丨 Swim",
+        "划屏幕丨 Swipe screen",
+        "网速快丨 Fast speed"
+      ],
+      "correct": "A",
+      "explanation": "指工作、学习不认真，摸鱼。"
+    },
+    {
+      "id": 269,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"社牛\" mean?",
+      "options": [
+        "社交牛掰症 | Social butterfly",
+        "社交恐惧症 | Social anxiety",
+        "社交达人 | Social butterfly",
+        "社恐 | Social anxiety"
+      ],
+      "correct": "C",
+      "explanation": "形容社交能力极强、敢说话、自来熟，是社恐的羡慕对象。"
+    },
+    {
+      "id": 270,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 靠边站 mean?",
+      "options": [
+        "让开丨 Stand aside",
+        "站路边丨 Stand by road",
+        "靠边丨 Move aside",
+        "不重要丨 Unimportant"
+      ],
+      "correct": "C",
+      "explanation": "让别人让开，或表示不重要。"
+    },
+    {
+      "id": 271,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 放心吧 mean?",
+      "options": [
+        "别担心丨 Don't worry",
+        "放开丨 Let go",
+        "安心丨 Feel at ease",
+        "放心丨 Rest assured"
+      ],
+      "correct": "C",
+      "explanation": "让对方安心，不会出问题。"
+    },
+    {
+      "id": 272,
+      "topic": "影视综艺梗",
+      "level": 1,
+      "text": "What does \"剧本痕迹\" mean in a variety show?",
+      "options": [
+        "综艺有剧本（不真实）| Obvious script",
+        "剧本的痕迹（道具）| Script trace",
+        "写剧本（嘉宾任务）| Write script",
+        "剧本的痕迹（台词）| Script line"
+      ],
+      "correct": "A",
+      "explanation": "观众觉得综艺情节是提前设计的，如 “这环节剧本痕迹太重，不像真的”。"
+    },
+    {
+      "id": 273,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 缓冲 mean?",
+      "options": [
+        "预加载数据丨 Buffer",
+        "冲洗丨 Wash",
+        "存储丨 Store",
+        "等待丨 Wait"
+      ],
+      "correct": "A",
+      "explanation": "视频提前加载数据。"
+    },
+    {
+      "id": 274,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 刻舟求剑 mean?",
+      "options": [
+        "在船上刻记号找剑 | Carve mark on boat to find sword",
+        "固执不懂变通 | Stubborn and inflexible",
+        "找剑 | Find sword",
+        "刻记号 | Carve mark"
+      ],
+      "correct": "B",
+      "explanation": "比喻办事拘泥、固执，不懂根据实际情况变化而灵活处理问题。"
+    },
+    {
+      "id": 275,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"你真是饿了\" mean?",
+      "options": [
+        "形容接受度超高 | Describe extremely high acceptance",
+        "你饿了 | You are hungry",
+        "电视剧台词 | TV drama lines",
+        "太能吃了 | Eat too much"
+      ],
+      "correct": "A",
+      "explanation": "源自电视剧《如果奔跑是我的人生》，形容对某事物的接受程度非常高。"
+    },
+    {
+      "id": 276,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 船到桥头自然直 mean?",
+      "options": [
+        "船开到桥头自然会变直 | A boat will straighten when it reaches the bridgehead",
+        "遇事别慌，总会有办法 | Don't worry, there's always a way",
+        "桥头的船都是直的 | Boats at the bridgehead are straight",
+        "船要开去桥头 | The boat is going to the bridgehead"
+      ],
+      "correct": "C",
+      "explanation": "比喻遇到困难不用焦虑，到时候自然会有解决办法，主打一个 “顺其自然”。"
+    },
+    {
+      "id": 277,
+      "topic": "美食",
+      "level": 1,
+      "text": "What is 螺蛳粉 a specialty of?",
+      "options": [
+        "Guangxi | 广西",
+        "Guangdong | 广东",
+        "Yunnan | 云南",
+        "Guizhou | 贵州"
+      ],
+      "correct": "A",
+      "explanation": "广西柳州特色美食，由米粉、螺蛳汤、酸笋等制成，闻臭吃香，是网红美食。"
+    },
+    {
+      "id": 278,
+      "topic": "历史文化",
+      "level": 1,
+      "text": "What is 端午节 to commemorate?",
+      "options": [
+        "Qu Yuan | 屈原",
+        "Li Bai | 李白",
+        "Du Fu | 杜甫",
+        "Bai Juyi | 白居易"
+      ],
+      "correct": "A",
+      "explanation": "端午节是为了纪念战国时期楚国诗人屈原，有吃粽子、赛龙舟、挂艾草等习俗。"
+    },
+    {
+      "id": 279,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 睇戏 mean in Cantonese?",
+      "options": [
+        "看戏 | Watch a play",
+        "看电影 | Watch a movie",
+        "看电视 | Watch TV",
+        "看演出 | Watch a show"
+      ],
+      "correct": "D",
+      "explanation": "粤语常用语，泛指看影视、戏剧，不单单指传统戏曲，日常使用范围广。"
+    },
+    {
+      "id": 280,
+      "topic": "生活常识",
+      "level": 1,
+      "text": "What is 凑单？",
+      "options": [
+        "凑单 | Add items",
+        "凑订单 | Combine orders",
+        "凑够金额享优惠 | Add items to meet discount",
+        "凑钱 | Pool money"
+      ],
+      "correct": "C",
+      "explanation": "电商平台常见玩法，凑够一定金额享受满减、折扣，是中国网购省钱技巧。"
+    },
+    {
+      "id": 281,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 靓女 mean in Cantonese?",
+      "options": [
+        "美女 | Beauty",
+        "靓的女生 | Pretty girl",
+        "年轻女孩 | Young girl",
+        "漂亮女人 | Beautiful woman"
+      ],
+      "correct": "A",
+      "explanation": "粤语经典称呼，对年轻女性的礼貌且亲切的叫法，日常逛街、问路常用。"
+    },
+    {
+      "id": 282,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"偷感很重\" mean?",
+      "options": [
+        "偷东西 | Stealing",
+        "偷偷摸摸 | Sneaky",
+        "默默做事 | Keep quiet",
+        "社交共鸣 | Social resonance"
+      ],
+      "correct": "C",
+      "explanation": "形容年轻人默默做事、不张扬、低调。"
+    },
+    {
+      "id": 283,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 将就一下 mean?",
+      "options": [
+        "凑合用丨 Make do",
+        "讲究丨 Pay attention",
+        "将就吃丨 Eat casually",
+        "将就住丨 Live casually"
+      ],
+      "correct": "A",
+      "explanation": "条件不好时勉强接受。"
+    },
+    {
+      "id": 284,
+      "topic": "生活常识",
+      "level": 1,
+      "text": "What is 高铁？",
+      "options": [
+        "高速列车 | High-speed train",
+        "火车 | Train",
+        "高铁 | High-speed rail",
+        "动车 | EMU train"
+      ],
+      "correct": "A",
+      "explanation": "中国高铁技术世界领先，是长途出行的主流方式，速度快、准点率高。"
+    },
+    {
+      "id": 285,
+      "topic": "生活常识",
+      "level": 1,
+      "text": "What does 客气话 mean?",
+      "options": [
+        "礼貌客套话 | Polite polite words",
+        "客气 | Polite",
+        "客套话 | Formal words",
+        "礼貌话 | Polite words"
+      ],
+      "correct": "A",
+      "explanation": "中国人日常社交常用，比如 “吃了吗”“别客气”“有空来玩”，是礼貌性寒暄。"
+    },
+    {
+      "id": 286,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 打肿脸充胖子 mean?",
+      "options": [
+        "把脸打肿假装胖 | Slap face to pretend to be fat",
+        "假装自己很厉害 | Pretend to be powerful",
+        "胖子喜欢打肿脸 | Fat people like to slap their faces",
+        "脸肿了像胖子 | Swollen face looks like a fat person"
+      ],
+      "correct": "A",
+      "explanation": "比喻自己没本事，却硬要装出很厉害的样子，死要面子活受罪，比如 “没钱还抢着买单，打肿脸充胖子”。"
+    },
+    {
+      "id": 287,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 亡羊补牢 mean?",
+      "options": [
+        "羊丢了补羊圈 | Fix the pen after sheep are lost",
+        "事后补救还来得及 | Better late than never",
+        "补牢 | Fix the pen",
+        "补救 | Remedy"
+      ],
+      "correct": "B",
+      "explanation": "比喻出了问题以后及时想办法补救，防止以后再受损失，是积极的谚语。"
+    },
+    {
+      "id": 288,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 高效协同 mean?",
+      "options": [
+        "高效配合丨 Efficient collaboration",
+        "效率丨 Efficiency",
+        "协作丨 Collaborate",
+        "共同丨 Together"
+      ],
+      "correct": "A",
+      "explanation": "团队高效配合工作。"
+    },
+    {
+      "id": 289,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 优先级 mean?",
+      "options": [
+        "顺序丨 Order",
+        "优秀丨 Excellent",
+        "级别丨 Level",
+        "重要顺序丨 Priority"
+      ],
+      "correct": "D",
+      "explanation": "工作处理的先后顺序。"
+    },
+    {
+      "id": 290,
+      "topic": "美食",
+      "level": 1,
+      "text": "What is 北京烤鸭 usually eaten with?",
+      "options": [
+        "Noodles | 面条",
+        "Rice | 米饭",
+        "Pancakes | 薄饼",
+        "Buns | 馒头"
+      ],
+      "correct": "C",
+      "explanation": "北京名菜，片好的烤鸭肉搭配薄饼、葱丝、黄瓜条、甜面酱卷着吃，口感丰富。"
+    },
+    {
+      "id": 291,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 死机 mean?",
+      "options": [
+        "设备卡死丨 Freeze",
+        "死亡丨 Die",
+        "关机丨 Shut down",
+        "重启丨 Restart"
+      ],
+      "correct": "A",
+      "explanation": "设备完全无响应。"
+    },
+    {
+      "id": 292,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"又幸福了姐\" mean?",
+      "options": [
+        "姐姐真幸福 | Sister is happy",
+        "羡慕调侃的语气 | Envious and teasing tone",
+        "又幸福了呀 | Happy again",
+        "姐姐又幸福了 | Sister is happy again"
+      ],
+      "correct": "C",
+      "explanation": "女生之间的调侃，带点嫉妒的语气，比如 “你脱单了，又幸福了姐”。"
+    },
+    {
+      "id": 293,
+      "topic": "生活常识",
+      "level": 1,
+      "text": "What is 广场舞？",
+      "options": [
+        "广场 | Square",
+        "跳舞 | Dance",
+        "广场集体舞 | Square dance",
+        "集体舞 | Group dance"
+      ],
+      "correct": "C",
+      "explanation": "中国中老年群体的特色健身活动，在广场跳集体舞，是中国城市文化特色。"
+    },
+    {
+      "id": 294,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"恋爱脑\" mean?",
+      "options": [
+        "恋爱中的人 | Person in love",
+        "为爱付出一切 | Love brain",
+        "单身 | Single",
+        "痴情 | Infatuated"
+      ],
+      "correct": "B",
+      "explanation": "为爱付出一切的人。"
+    },
+    {
+      "id": 295,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 麻烦你 mean?",
+      "options": [
+        "请帮忙丨 Please help",
+        "很麻烦丨 Very troublesome",
+        "讨厌你丨 Annoy you",
+        "麻烦事丨 Troublesome thing"
+      ],
+      "correct": "A",
+      "explanation": "请求别人帮忙时的礼貌开头。"
+    },
+    {
+      "id": 296,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 别多心 mean?",
+      "options": [
+        "别多想丨 Don't overthink",
+        "别贪心丨 Don't be greedy",
+        "别多嘴丨 Don't talk much",
+        "别多手丨 Don't touch"
+      ],
+      "correct": "A",
+      "explanation": "安慰对方不要胡思乱想。"
+    },
+    {
+      "id": 297,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 马上到 mean?",
+      "options": [
+        "立刻到丨 Arrive soon",
+        "马上走丨 Leave now",
+        "马上来丨 Come right away",
+        "马上做丨 Do now"
+      ],
+      "correct": "C",
+      "explanation": "表示很快就到达现场。"
+    },
+    {
+      "id": 298,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 卡点 mean?",
+      "options": [
+        "障碍问题丨 Blocker",
+        "卡片丨 Card",
+        "点丨 Point",
+        "停止丨 Stop"
+      ],
+      "correct": "A",
+      "explanation": "工作推进的阻碍点。"
+    },
+    {
+      "id": 299,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 半斤八两 mean?",
+      "options": [
+        "半斤重量 | Half a catty",
+        "很重 | Very heavy",
+        "八两 | Eight taels",
+        "彼此差不多 | Six of one, half a dozen of the other"
+      ],
+      "correct": "D",
+      "explanation": "古代 1 斤 = 16 两，半斤 = 8 两，形容双方水平、情况完全相当，不分上下。"
+    },
+    {
+      "id": 300,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 过程管控 mean?",
+      "options": [
+        "控制丨 Control",
+        "过程丨 Process",
+        "控制过程丨 Process control",
+        "管理丨 Manage"
+      ],
+      "correct": "C",
+      "explanation": "对工作过程进行监督。"
+    },
+    {
+      "id": 301,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"显眼包男友\" mean?",
+      "options": [
+        "很吸睛的男友 | Eye-catching boyfriend",
+        "爱出风头的男友 | Show-off boyfriend",
+        "长得帅 | Handsome",
+        "搞笑男友 | Funny boyfriend"
+      ],
+      "correct": "A",
+      "explanation": "形容男友很吸睛、走到哪都被看，也带点调侃。"
+    },
+    {
+      "id": 302,
+      "topic": "生活常识",
+      "level": 1,
+      "text": "What is 奶茶？",
+      "options": [
+        "饮品 | Drink",
+        "牛奶 | Milk",
+        "茶 | Tea",
+        "奶茶饮品 | Milk tea"
+      ],
+      "correct": "A",
+      "explanation": "中国年轻人最爱的饮品，甜度、配料可定制，是社交、日常消费的主流选择。"
+    },
+    {
+      "id": 303,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"电子木鱼\" mean?",
+      "options": [
+        "电子乐器 | Electronic instrument",
+        "敲了积功德的表情包 | Emoji for accumulating merit",
+        "木鱼挂件 | Wooden fish pendant",
+        "手机软件 | Phone app"
+      ],
+      "correct": "B",
+      "explanation": "年轻人解压神器，敲一下 “功德 + 1”，主打精神安慰。"
+    },
+    {
+      "id": 304,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does \"再优化一下\" mean from a boss?",
+      "options": [
+        "简单改（小调整）| Simple change",
+        "改到我满意（没具体要求）| Improve until I’m satisfied",
+        "优化（技术术语）| Optimize",
+        "重新做（推翻）| Redo"
+      ],
+      "correct": "B",
+      "explanation": "老板没说具体改哪里，实际要反复修改，如 “这份方案再优化一下”，表不满意。"
+    },
+    {
+      "id": 305,
+      "topic": "美食",
+      "level": 1,
+      "text": "What is 火锅's core feature?",
+      "options": [
+        "Boiling soup | 熬汤",
+        "Hot pot base | 锅底",
+        "Shabu-shabu | 涮菜",
+        "Side dishes | 配菜"
+      ],
+      "correct": "D",
+      "explanation": "火锅的核心是可自选锅底，边煮边涮各种食材，是中国经典的聚餐美食。"
+    },
+    {
+      "id": 306,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 嘛 mean?",
+      "options": [
+        "嘛 | Ma",
+        "妈妈 | Mom",
+        "吗 | Question particle",
+        "语气词，表强调 / 疑问 | Modal particle"
+      ],
+      "correct": "D",
+      "explanation": "句末语气词，表强调、疑问、撒娇，比如 “好嘛”“干嘛呢”，口语常用。"
+    },
+    {
+      "id": 307,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 酱紫 mean?",
+      "options": [
+        "酱 | Sauce",
+        "紫色 | Purple",
+        "这样子 | Like this",
+        "这样 | Like this"
+      ],
+      "correct": "C",
+      "explanation": "谐音 “这样子”，网络 / 口语常用，比如 “酱紫啊”“原来是酱紫”，语气可爱。"
+    },
+    {
+      "id": 308,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 有空来玩 mean?",
+      "options": [
+        "有空来做客丨 Come visit when free",
+        "现在就来丨 Come now",
+        "一定要来丨 Must come",
+        "来玩游戏丨 Come play games"
+      ],
+      "correct": "A",
+      "explanation": "中国式客套问候，不一定真邀请。"
+    },
+    {
+      "id": 309,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 颗粒度太粗 mean?",
+      "options": [
+        "不够细丨 Not fine",
+        "颗粒大丨 Big particle",
+        "粗糙丨 Rough",
+        "细节不够丨 Not detailed enough"
+      ],
+      "correct": "D",
+      "explanation": "方案 / 计划不够细致。"
+    },
+    {
+      "id": 310,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 清缓存 mean?",
+      "options": [
+        "清理数据丨 Clear cache",
+        "清除丨 Clear",
+        "保存丨 Save",
+        "删除丨 Delete"
+      ],
+      "correct": "A",
+      "explanation": "清理临时数据释放空间。"
+    },
+    {
+      "id": 311,
+      "topic": "生活常识",
+      "level": 1,
+      "text": "What is 快递？",
+      "options": [
+        "包裹 | Parcel",
+        "快速 | Fast",
+        "快递员 | Courier",
+        "快递包裹 | Express delivery"
+      ],
+      "correct": "D",
+      "explanation": "中国物流行业发达，快递是日常收寄包裹的主要方式，几乎覆盖全国。"
+    },
+    {
+      "id": 312,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 凑合吧 mean?",
+      "options": [
+        "一般般丨 Just so so",
+        "很好丨 Very good",
+        "很差丨 Very bad",
+        "完美丨 Perfect"
+      ],
+      "correct": "A",
+      "explanation": "表示勉强可以，不算好。"
+    },
+    {
+      "id": 313,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 需求调研 mean?",
+      "options": [
+        "调查需求丨 Demand research",
+        "需求丨 Demand",
+        "调查丨 Research",
+        "研究丨 Study"
+      ],
+      "correct": "A",
+      "explanation": "调查了解用户 / 工作需求。"
+    },
+    {
+      "id": 314,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 井底之蛙 mean?",
+      "options": [
+        "井底的青蛙 | Frog at the bottom of a well",
+        "井底 | Well bottom",
+        "青蛙 | Frog",
+        "见识短浅的人 | Person with narrow vision"
+      ],
+      "correct": "D",
+      "explanation": "比喻见识短浅、眼界狭隘的人，只看到眼前的小天地，看不到广阔世界。"
+    },
+    {
+      "id": 315,
+      "topic": "影视综艺梗",
+      "level": 1,
+      "text": "What does \"圈粉\" mean for a celebrity?",
+      "options": [
+        "粉丝数量（数据）| Fan number",
+        "圈子里的粉（粉丝群体）| Circle fans",
+        "粉丝圈（粉丝社群）| Fan circle",
+        "吸引粉丝（涨粉）| Gain fans"
+      ],
+      "correct": "D",
+      "explanation": "指明星因表现好吸引新粉丝，如 “他在综艺里太可爱，圈粉无数”。"
+    },
+    {
+      "id": 316,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 别慌 mean?",
+      "options": [
+        "不要着急丨 Don't panic",
+        "别慌张丨 Don't be flustered",
+        "别乱跑丨 Don't run",
+        "别乱动丨 Don't move"
+      ],
+      "correct": "B",
+      "explanation": "安慰对方冷静，不要紧张。"
+    },
+    {
+      "id": 317,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does \"我再想想\" mean when asked for help?",
+      "options": [
+        "不想帮（委婉拒绝）| I don’t want to help",
+        "真的想（思考方案）| Really think",
+        "再想想（需要时间）| Need time",
+        "没想好（暂时不能帮）| Not ready"
+      ],
+      "correct": "A",
+      "explanation": "同事委婉拒绝帮忙，如 “这个忙我再想想”，实际是拒绝。"
+    },
+    {
+      "id": 318,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 记得哦 mean?",
+      "options": [
+        "要记住丨 Remember",
+        "记得我丨 Remember me",
+        "记得做丨 Remember to do",
+        "记得带丨 Remember to bring"
+      ],
+      "correct": "A",
+      "explanation": "提醒对方不要忘记。"
+    },
+    {
+      "id": 319,
+      "topic": "美食",
+      "level": 1,
+      "text": "What is 糖葫芦 made of mainly?",
+      "options": [
+        "Strawberry | 草莓",
+        "Hawthorn | 山楂",
+        "Grape | 葡萄",
+        "Apple | 苹果"
+      ],
+      "correct": "B",
+      "explanation": "北方传统小吃，又称冰糖葫芦，核心原料是山楂，裹上冰糖，酸甜开胃。"
+    },
+    {
+      "id": 320,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 塞翁失马焉知非福 mean?",
+      "options": [
+        "塞翁丢了马，不知道是不是福气 | Uncle Sai lost his horse, not knowing if it's a blessing",
+        "丢了东西一定要找 | Must find lost things",
+        "马丢了是坏事 | Losing a horse is a bad thing",
+        "塞翁很倒霉 | Uncle Sai is very unlucky"
+      ],
+      "correct": "A",
+      "explanation": "比喻坏事可能变成好事，遇事别慌，比如 “这次没考上，塞翁失马焉知非福，下次会考得更好”。"
+    },
+    {
+      "id": 321,
+      "topic": "美食",
+      "level": 1,
+      "text": "What is the main ingredient of 饺子？",
+      "options": [
+        "Rice flour | 米粉",
+        "Wheat flour | 小麦粉",
+        "Corn flour | 玉米面",
+        "Rice | 大米"
+      ],
+      "correct": "B",
+      "explanation": "北方经典面食，核心原料是小麦粉做的饺子皮，包裹各种馅料，春节必吃。"
+    },
+    {
+      "id": 322,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 拔苗助长 mean?",
+      "options": [
+        "拔禾苗帮它长高 | Pull seedlings to help them grow",
+        "拔苗 | Pull seedlings",
+        "急于求成 | Be too eager for success",
+        "助长 | Help grow"
+      ],
+      "correct": "C",
+      "explanation": "比喻违反事物发展的客观规律，急于求成，反而把事情弄糟。"
+    },
+    {
+      "id": 323,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 耍起走 mean in Sichuan dialect?",
+      "options": [
+        "玩起来 | Play together",
+        "走起来 | Let's go",
+        "耍一下 | Play for a while",
+        "走一走 | Walk for a while"
+      ],
+      "correct": "C",
+      "explanation": "四川话日常邀约，“耍起走”=“一起玩”，比如 “周末去火锅，耍起走！”，主打一个四川人的潇洒。"
+    },
+    {
+      "id": 324,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 迭代 mean?",
+      "options": [
+        "改变丨 Change",
+        "代替丨 Replace",
+        "升级丨 Upgrade",
+        "更新优化丨 Iterate"
+      ],
+      "correct": "D",
+      "explanation": "产品 / 方案持续优化升级。"
+    },
+    {
+      "id": 325,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 咋整 mean?",
+      "options": [
+        "怎么办 | What to do",
+        "怎么整 | How to do",
+        "整 | Do",
+        "怎么办 | How"
+      ],
+      "correct": "A",
+      "explanation": "东北方言，“怎么办” 的意思，比如 “这咋整啊”，日常口语高频。"
+    },
+    {
+      "id": 326,
+      "topic": "古风诗词常识",
+      "level": 1,
+      "text": "What does \"床前明月光\" describe?",
+      "options": [
+        "夜晚景色（思乡）| Night scene (homesickness)",
+        "床上（睡觉）| On the bed",
+        "月光（白天）| Moonlight (day)",
+        "床前（门口）| In front of the door"
+      ],
+      "correct": "A",
+      "explanation": "李白《静夜思》诗句，写夜晚明月照床前，表达思乡之情。"
+    },
+    {
+      "id": 327,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 可以吗 mean?",
+      "options": [
+        "行不行丨 Is it okay",
+        "可以丨 Can",
+        "好吗丨 Is it good",
+        "对吗丨 Is it right"
+      ],
+      "correct": "A",
+      "explanation": "征求对方同意、许可。"
+    },
+    {
+      "id": 328,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 补位 mean?",
+      "options": [
+        "补充丨 Supplement",
+        "替补协助丨 Fill the position",
+        "位置丨 Position",
+        "帮助丨 Help"
+      ],
+      "correct": "B",
+      "explanation": "主动替补协助同事。"
+    },
+    {
+      "id": 329,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 得了吧 mean?",
+      "options": [
+        "好的 | OK",
+        "得到它 | Get it",
+        "算了吧 / 别逗了 | Come on / Stop it",
+        "赢 | Win"
+      ],
+      "correct": "C",
+      "explanation": "口语中用来否定、反驳，比如 “得了吧，你别吹了”，表不相信、不耐烦。"
+    },
+    {
+      "id": 330,
+      "topic": "美食",
+      "level": 1,
+      "text": "What is 包子 filled with usually?",
+      "options": [
+        "Meat | 肉馅",
+        "Vegetables | 素馅",
+        "Meat or vegetables | 肉馅或素馅",
+        "Sweet fillings | 甜馅"
+      ],
+      "correct": "D",
+      "explanation": "中式经典早餐，分咸口（猪肉、牛肉、蔬菜）和甜口（豆沙、莲蓉），按需选择。"
+    },
+    {
+      "id": 331,
+      "topic": "网络黑话",
+      "level": 1,
+      "text": "What does \"葱到我算是提到棉花啦\" mean?",
+      "options": [
+        "性格软 | Soft",
+        "性格硬 | Hard",
+        "脾气好 | Nice",
+        "脾气坏 | Bad"
+      ],
+      "correct": "B",
+      "explanation": "形容性格非常软，好说话。"
+    },
+    {
+      "id": 332,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 我先走了 mean?",
+      "options": [
+        "先行离开丨 Leave first",
+        "我走得快丨 I walk fast",
+        "不要等我丨 Don't wait for me",
+        "再也不来丨 Never come back"
+      ],
+      "correct": "A",
+      "explanation": "聚会、饭局离开时的礼貌用语。"
+    },
+    {
+      "id": 333,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 借过 mean?",
+      "options": [
+        "请让一下丨 Excuse me",
+        "借东西丨 Borrow something",
+        "错过丨 Miss",
+        "借过一下丨 Let me pass"
+      ],
+      "correct": "D",
+      "explanation": "拥挤时请别人让路。"
+    },
+    {
+      "id": 334,
+      "topic": "美食",
+      "level": 1,
+      "text": "What is the main taste of 臭豆腐？",
+      "options": [
+        "Spicy | 辣",
+        "Salty | 咸",
+        "Smelly outside, tasty inside | 外臭内香",
+        "Sour | 酸"
+      ],
+      "correct": "B",
+      "explanation": "长沙特色小吃，经发酵后油炸，外焦里嫩，核心特点是闻着臭吃着香。"
+    },
+    {
+      "id": 335,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 热点 mean?",
+      "options": [
+        "手机网络丨 Hotspot",
+        "热门丨 Popular",
+        "地点丨 Place",
+        "网络丨 Network"
+      ],
+      "correct": "A",
+      "explanation": "手机分享网络给其他设备。"
+    },
+    {
+      "id": 336,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 清官难断家务事 mean?",
+      "options": [
+        "清官也判不了家庭矛盾 | Even an honest official can't judge family conflicts",
+        "家庭的事不用清官管 | Family matters don't need to be managed by honest officials",
+        "清官没有家务事 | Honest officials have no family matters",
+        "家务事很难断 | Family matters are hard to judge"
+      ],
+      "correct": "B",
+      "explanation": "比喻家庭内部的矛盾，外人很难说清楚谁对谁错，不好插手，比如 “他们夫妻俩吵架，我也没办法，清官难断家务事”。"
+    },
+    {
+      "id": 337,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 贼拉香 mean in Northeast dialect?",
+      "options": [
+        "特别香 | Especially fragrant",
+        "贼香 | Super fragrant",
+        "很香 | Very fragrant",
+        "超香 | Ultra fragrant"
+      ],
+      "correct": "B",
+      "explanation": "东北方言夸张表达，“贼拉” 是程度副词，形容食物味道极其鲜美。"
+    },
+    {
+      "id": 338,
+      "topic": "谚语成语",
+      "level": 1,
+      "text": "What does 笨鸟先飞 mean?",
+      "options": [
+        "笨的鸟要先飞 | Stupid birds fly first",
+        "早起的鸟儿有虫吃 | The early bird catches the worm",
+        "鸟笨就飞不快 | Stupid birds can't fly fast",
+        "先飞的鸟都是笨鸟 | Birds that fly first are stupid"
+      ],
+      "correct": "D",
+      "explanation": "比喻自己能力不如别人，就提前努力，勤能补拙，比如 “我成绩不好，只能笨鸟先飞，早点起床学习”。"
+    },
+    {
+      "id": 339,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 看情况 mean?",
+      "options": [
+        "视情况而定丨 Depends on situation",
+        "看风景丨 See scenery",
+        "看时间丨 See time",
+        "看心情丨 See mood"
+      ],
+      "correct": "A",
+      "explanation": "不明确答应，看情况再决定。"
+    },
+    {
+      "id": 340,
+      "topic": "日常口语",
+      "level": 1,
+      "text": "What does 别催啦 mean?",
+      "options": [
+        "别催促丨 Don't rush",
+        "别催我丨 Don't rush me",
+        "快点丨 Hurry up",
+        "慢慢来丨 Take your time"
+      ],
+      "correct": "B",
+      "explanation": "请求对方不要催促自己。"
+    },
+    {
+      "id": 341,
+      "topic": "古风诗词常识",
+      "level": 1,
+      "text": "What does \"夕阳无限好\" describe?",
+      "options": [
+        "夕阳美（惋惜）| Beautiful sunset (regret)",
+        "夕阳（早上）| Sunset (morning)",
+        "无限好（不好）| Not good",
+        "夕阳（中午）| Sunset (noon)"
+      ],
+      "correct": "A",
+      "explanation": "李商隐诗句 “夕阳无限好，只是近黄昏”，写夕阳美但快落山，表惋惜。"
+    },
+    {
+      "id": 342,
+      "topic": "古风诗词常识",
+      "level": 1,
+      "text": "What does \"天生我材必有用\" express?",
+      "options": [
+        "必有用（可能没用）| May be useless",
+        "天生（后天）| Innate (acquired)",
+        "我材（无用）| Useless",
+        "自信（乐观）| Confidence (optimism)"
+      ],
+      "correct": "D",
+      "explanation": "李白《将进酒》诗句，表对自己才华的自信，乐观向上。"
+    },
+    {
+      "id": 343,
+      "topic": "职场社交黑话",
+      "level": 1,
+      "text": "What does 闭环思维 mean?",
+      "options": [
+        "完整负责丨 Complete responsibility",
+        "圆圈丨 Circle",
+        "关闭丨 Close",
+        "思维丨 Thinking"
+      ],
+      "correct": "A",
+      "explanation": "做事有始有终，主动反馈。"
+    },
+    {
+      "id": 344,
+      "topic": "方言",
+      "level": 1,
+      "text": "What does 巴适得很 mean in Sichuan dialect?",
+      "options": [
+        "很舒服 | Very comfortable",
+        "很难受 | Very uncomfortable",
+        "很开心 | Very happy",
+        "很生气 | Very angry"
+      ],
+      "correct": "D",
+      "explanation": "四川话顶级夸赞，“巴适” 是舒服、好，“得很” 表程度，形容一切事物都好，比如 “这火锅巴适得很”。"
+    },
+    {
+      "id": 345,
+      "topic": "科技网络语",
+      "level": 1,
+      "text": "What does 快充 mean?",
+      "options": [
+        "快速充电丨 Fast charge",
+        "很快丨 Fast",
+        "充满丨 Full",
+        "充电丨 Charge"
+      ],
+      "correct": "A",
+      "explanation": "短时间充满电量技术。"
+    }
+  ]
+}
